@@ -4,7 +4,7 @@
  "accept_quantile": 0.2,
  "category_targets": {
   "walls/plaster": 449.99,
-  "electronics": 532.5,
+  "electronics": 513.01,
   "installation": 378.0,
   "leak detection": 409.79,
   "skirting": 240.0,
@@ -61,12 +61,13 @@
   "pool": 606.0,
   "water": 614.0,
   "surge": 310.0,
+  "system": 310.0,
   "repair": 130.0,
   "assembly": 135.0,
   "living": 1233.0,
   "remove": 145.0,
   "damage": 614.0
  },
- "games_learned_from": 31,
- "updated_at": "2026-08-22T19:20:49.670164+00:00"
+ "games_learned_from": 32,
+ "updated_at": "2026-08-22T19:33:02.402562+00:00"
 }

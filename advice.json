@@ -4,7 +4,7 @@
   "cleaning": 114.12,
   "disposal": 65.0,
   "drying": 408.17,
-  "electronics": 532.5,
+  "electronics": 513.01,
   "flooring": 232.15,
   "inspection/report": 227.66,
   "installation": 378.0,
@@ -66,10 +66,11 @@
   "site": 100.0,
   "skilled": 629.0,
   "skirting": 240.0,
+  "speaker": 310.0,
   "supply": 360.0,
   "surfaces": 569.0,
   "surge": 310.0,
-  "system": 516.0,
+  "system": 310.0,
   "table": 300.0,
   "technician": 449.0,
   "transition": 65.0,
@@ -83,7 +84,7 @@
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 31,
+ "games_analyzed": 32,
  "median_multiplier": 0.916,
  "policies": [
   {
@@ -91,12 +92,13 @@
    "games": [
     2,
     4,
-    6
+    6,
+    32
    ],
-   "items_proven_covered": 7,
-   "items_proven_uncovered": 3,
+   "items_proven_covered": 9,
+   "items_proven_uncovered": 4,
    "policy_hash": "1064e5a2c0",
-   "uncovered_share": 0.3
+   "uncovered_share": 0.31
   },
   {
    "edition": "",
@@ -313,5 +315,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T19:31:42.386200+00:00"
+ "generated_at": "2026-08-22T19:34:47.911054+00:00"
 }

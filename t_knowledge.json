@@ -3926,6 +3926,83 @@
    "t_hat": 9.5,
    "t_soft_lower": 0.0,
    "t_upper": 19.0
+  },
+  {
+   "description": "Speaker system 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 171.03,
+   "t_hat": 224.76,
+   "t_soft_lower": 171.03,
+   "t_upper": 278.5
+  },
+  {
+   "description": "Shipping 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 0.0,
+   "t_hat": 6.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 13.49
+  },
+  {
+   "description": "Installation 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 0.0,
+   "t_hat": 23.02,
+   "t_soft_lower": 0.0,
+   "t_upper": 46.04
+  },
+  {
+   "description": "TV set 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 513.01,
+   "t_hat": 524.62,
+   "t_soft_lower": 513.01,
+   "t_upper": 536.23
+  },
+  {
+   "description": "Property and liability damage to electronics 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.81,
+   "t_soft_lower": 0.0,
+   "t_upper": 39.62
+  },
+  {
+   "description": "Property and liability damage to electronics - service 1 pcs order",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 0.0,
+   "t_hat": 16.07,
+   "t_soft_lower": 0.0,
+   "t_upper": 32.13
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 32,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "1064e5a2c0",
+   "t_hard_lower": 0.0,
+   "t_hat": 10.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 20.0
   }
  ]
 }
