@@ -5125,6 +5125,193 @@
    "t_hat": 2.0,
    "t_soft_lower": 0.0,
    "t_upper": 4.0
+  },
+  {
+   "description": "Cleaning of affected floor areas in the utility room 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 98.91,
+   "t_hat": 109.48,
+   "t_soft_lower": 98.91,
+   "t_upper": 120.06
+  },
+  {
+   "description": "Cleaning of affected floor areas in the adjoining 1 pcs hallway",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 101.32,
+   "t_hat": 104.03,
+   "t_soft_lower": 101.32,
+   "t_upper": 106.75
+  },
+  {
+   "description": "Inspection of the washing machine and supply/drain 1 pcs connection to confirm no further leakage",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 131.98,
+   "t_hat": 143.08,
+   "t_soft_lower": 131.98,
+   "t_upper": 154.18
+  },
+  {
+   "description": "Removal and disposal of water-damaged skirting 1 pcs boards",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 71.02,
+   "t_hat": 88.19,
+   "t_soft_lower": 71.02,
+   "t_upper": 105.37
+  },
+  {
+   "description": "Replace skirting boards 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 109.15,
+   "t_hat": 117.58,
+   "t_soft_lower": 109.15,
+   "t_upper": 126.0
+  },
+  {
+   "description": "Cleaning and repainting of the upstairs bedroom not \u2013 \u2013 reached by the water",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.48,
+   "t_soft_lower": 0.0,
+   "t_upper": 38.96
+  },
+  {
+   "description": "Moisture measurement of the utility room and hallway 1 pcs floor",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 106.2,
+   "t_hat": 114.5,
+   "t_soft_lower": 106.2,
+   "t_upper": 122.8
+  },
+  {
+   "description": "Drying of the affected floor area 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 228.97,
+   "t_hat": 247.49,
+   "t_soft_lower": 228.97,
+   "t_upper": 266.0
+  },
+  {
+   "description": "Drying unit rental 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 57.96,
+   "t_hat": 60.48,
+   "t_soft_lower": 57.96,
+   "t_upper": 63.0
+  },
+  {
+   "description": "Skilled worker hours 4 hrs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 198.0,
+   "t_hat": 212.5,
+   "t_soft_lower": 198.0,
+   "t_upper": 227.0
+  },
+  {
+   "description": "Moisture measurement and drying of the basement \u2013 \u2013 storage room",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.48,
+   "t_soft_lower": 0.0,
+   "t_upper": 38.96
+  },
+  {
+   "description": "Transport of the high-value painting to the specialist 1 pcs restorer",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 146.91,
+   "t_hat": 156.16,
+   "t_soft_lower": 146.91,
+   "t_upper": 165.42
+  },
+  {
+   "description": "Professional assessment of the high-value painting 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 438.74,
+   "t_hat": 471.34,
+   "t_soft_lower": 438.74,
+   "t_upper": 503.93
+  },
+  {
+   "description": "Conservatory drying and stabilisation of the painting 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 915.27,
+   "t_hat": 997.55,
+   "t_soft_lower": 915.27,
+   "t_upper": 1079.84
+  },
+  {
+   "description": "Full restoration of the painting 1 pcs",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 2202.93,
+   "t_hat": 2351.44,
+   "t_soft_lower": 2202.93,
+   "t_upper": 2499.95
+  },
+  {
+   "description": "Restoration of a second painting stored in the \u2013 \u2013 basement, unaffected by the utility-room leak",
+   "game_id": 42,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.48,
+   "t_soft_lower": 0.0,
+   "t_upper": 38.96
+  },
+  {
+   "description": "Administrative and claim-processing fee 1 flat rate",
+   "game_id": 42,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 0.0,
+   "t_hat": 4.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 8.0
   }
  ]
 }
