@@ -4674,6 +4674,193 @@
    "t_hat": 202.27,
    "t_soft_lower": 0.0,
    "t_upper": 404.54
+  },
+  {
+   "description": "Indoor leak detection 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 557.08,
+   "t_hat": 557.08,
+   "t_soft_lower": 557.08,
+   "t_upper": null
+  },
+  {
+   "description": "Room drying 30 m\u00b2 (basement) 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 454.85,
+   "t_hat": 486.47,
+   "t_soft_lower": 454.85,
+   "t_upper": 518.09
+  },
+  {
+   "description": "Room dryer unit 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 472.77,
+   "t_hat": 472.77,
+   "t_soft_lower": 472.77,
+   "t_upper": null
+  },
+  {
+   "description": "Wet insulation wool from basement 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 201.7,
+   "t_hat": 230.57,
+   "t_soft_lower": 201.7,
+   "t_upper": 259.45
+  },
+  {
+   "description": "Room drying 50 m\u00b2 in the adjoining ground-floor room 1 pcs above the leak",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 353.46,
+   "t_hat": 356.73,
+   "t_soft_lower": 353.46,
+   "t_upper": 360.0
+  },
+  {
+   "description": "Room dryer unit 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 0.0,
+   "t_hat": 21.86,
+   "t_soft_lower": 0.0,
+   "t_upper": 43.72
+  },
+  {
+   "description": "Drying fan 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 0.0,
+   "t_hat": 10.45,
+   "t_soft_lower": 0.0,
+   "t_upper": 20.89
+  },
+  {
+   "description": "Room drying in a first-floor bedroom \u2013 \u2013",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.48,
+   "t_soft_lower": 0.0,
+   "t_upper": 38.96
+  },
+  {
+   "description": "Profipress elbow 90\u00b0 copper 28mm model 01 5 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 111.1,
+   "t_hat": 131.62,
+   "t_soft_lower": 111.1,
+   "t_upper": 152.13
+  },
+  {
+   "description": "Profipress elbow 45\u00b0 copper 28mm model 02 5 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 111.1,
+   "t_hat": 121.13,
+   "t_soft_lower": 111.1,
+   "t_upper": 131.17
+  },
+  {
+   "description": "Transition piece 15x19mm 3 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 75.0,
+   "t_hat": 115.78,
+   "t_soft_lower": 75.0,
+   "t_upper": 156.57
+  },
+  {
+   "description": "Skilled worker hours 10.5 hrs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 620.87,
+   "t_hat": 666.12,
+   "t_soft_lower": 620.87,
+   "t_upper": 711.38
+  },
+  {
+   "description": "Vehicle costs 2 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 165.62,
+   "t_hat": 165.62,
+   "t_soft_lower": 165.62,
+   "t_upper": null
+  },
+  {
+   "description": "Skilled worker hours 14 \u2013",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 1008.79,
+   "t_hat": 1008.79,
+   "t_soft_lower": 1008.79,
+   "t_upper": null
+  },
+  {
+   "description": "Premium large-format designer floor tiles (upgrade 5 pcs from the plain pre-loss basement tiles)",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 488.69,
+   "t_hat": 581.85,
+   "t_soft_lower": 488.69,
+   "t_upper": 675.0
+  },
+  {
+   "description": "Standard tiling material 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 0.0,
+   "t_hat": 15.25,
+   "t_soft_lower": 0.0,
+   "t_upper": 30.5
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 37,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "63344e651d",
+   "t_hard_lower": 81.79,
+   "t_hat": 81.79,
+   "t_soft_lower": 81.79,
+   "t_upper": null
   }
  ]
 }

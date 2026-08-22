@@ -1,14 +1,14 @@
 {
- "calibration_evidence": 31,
+ "calibration_evidence": 41,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
   "drying": 359.19,
   "electronics": 513.01,
-  "flooring": 232.15,
+  "flooring": 240.0,
   "inspection/report": 227.66,
   "installation": 378.0,
-  "labour hours": 448.94,
+  "labour hours": 497.9,
   "leak detection": 432.0,
   "moisture measurement": 200.0,
   "skirting": 240.0,
@@ -20,7 +20,7 @@
   "affected": 232.0,
   "area": 232.0,
   "assembly": 135.0,
-  "basement": 198.0,
+  "basement": 202.0,
   "beneath": 402.0,
   "billiard": 454.0,
   "boards": 119.0,
@@ -28,20 +28,20 @@
   "condensation": 53.0,
   "conservatory": 606.0,
   "construction": 57.0,
-  "copper": 67.0,
-  "costs": 80.0,
+  "copper": 82.0,
+  "costs": 81.0,
   "damage": 614.0,
   "damaged": 199.0,
-  "detection": 460.0,
+  "detection": 471.0,
   "disposal": 65.0,
   "dryer": 282.0,
   "drying": 432.0,
-  "elbow": 82.0,
+  "elbow": 96.0,
   "electrical": 228.0,
   "final": 100.0,
-  "floor": 150.0,
+  "floor": 155.0,
   "helper": 254.0,
-  "hours": 498.0,
+  "hours": 506.0,
   "indoor": 471.0,
   "inspect": 228.0,
   "inspection": 536.0,
@@ -56,7 +56,7 @@
   "piece": 67.0,
   "pipe": 108.0,
   "pool": 606.0,
-  "profipress": 82.0,
+  "profipress": 96.0,
   "rate": 240.0,
   "removal": 150.0,
   "remove": 145.0,
@@ -77,18 +77,19 @@
   "system": 310.0,
   "table": 300.0,
   "technician": 498.0,
-  "transition": 65.0,
+  "transition": 67.0,
   "transport": 146.0,
   "unit": 408.0,
+  "upgrade": 489.0,
   "vacuum": 114.0,
-  "vehicle": 80.0,
+  "vehicle": 81.0,
   "wall": 378.0,
   "water": 614.0,
   "water-damaged": 139.0,
-  "wool": 76.0,
+  "wool": 197.0,
   "worker": 705.0
  },
- "games_analyzed": 36,
+ "games_analyzed": 37,
  "median_multiplier": 1.077,
  "policies": [
   {
@@ -164,6 +165,17 @@
   {
    "edition": "",
    "games": [
+    11,
+    37
+   ],
+   "items_proven_covered": 31,
+   "items_proven_uncovered": 1,
+   "policy_hash": "63344e651d",
+   "uncovered_share": 0.03
+  },
+  {
+   "edition": "",
+   "games": [
     13,
     34
    ],
@@ -202,16 +214,6 @@
    "items_proven_uncovered": 2,
    "policy_hash": "4fa9117fc8",
    "uncovered_share": 0.5
-  },
-  {
-   "edition": "",
-   "games": [
-    11
-   ],
-   "items_proven_covered": 18,
-   "items_proven_uncovered": 1,
-   "policy_hash": "63344e651d",
-   "uncovered_share": 0.05
   },
   {
    "edition": "",
@@ -350,5 +352,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T20:35:50.529242+00:00"
+ "generated_at": "2026-08-22T20:40:09.707944+00:00"
 }
