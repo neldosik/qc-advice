@@ -20,7 +20,6 @@
  },
  "exclusion_words": [],
  "covered_words": {
-  "costs": 69.0,
   "copper": 67.0,
   "room": 438.0,
   "vehicle": 68.0,
@@ -60,8 +59,9 @@
   "surge": 310.0,
   "living": 1233.0,
   "remove": 145.0,
+  "damage": 614.0,
   "construction": 57.0
  },
- "games_learned_from": 26,
- "updated_at": "2026-08-22T18:21:11.678843+00:00"
+ "games_learned_from": 27,
+ "updated_at": "2026-08-22T18:29:26.549337+00:00"
 }

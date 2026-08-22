@@ -44,7 +44,6 @@
   "kitchen": 180.0,
   "leak": 410.0,
   "living": 1233.0,
-  "material": 118.0,
   "measurement": 184.0,
   "moisture": 218.0,
   "painting": 650.0,
@@ -76,7 +75,7 @@
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 26,
+ "games_analyzed": 27,
  "median_multiplier": 0.967,
  "policies": [
   {
@@ -266,12 +265,23 @@
    "items_proven_uncovered": 1,
    "policy_hash": "032711e357",
    "uncovered_share": 0.09
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
+   "games": [
+    27
+   ],
+   "items_proven_covered": 1,
+   "items_proven_uncovered": 2,
+   "policy_hash": "fa547b5e0f",
+   "uncovered_share": 0.67
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
  "uncovered_words": [
   "catering",
-  "crew"
+  "crew",
+  "shipping"
  ],
- "generated_at": "2026-08-22T18:25:23.015837+00:00"
+ "generated_at": "2026-08-22T18:30:24.991190+00:00"
 }
