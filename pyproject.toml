@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qc-advice"
+version = "1.0.0"
+description = "Teamers competitive-analytics CLI for the Claim-to-Fame tournament"
+requires-python = ">=3.9"
+
+[project.scripts]
+qc = "qc_cli:main"
+
+[tool.setuptools]
+py-modules = ["qc_cli"]

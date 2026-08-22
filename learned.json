@@ -1,6 +1,4 @@
 {
- "global_multiplier": 1.037,
- "charge_quantile": 0.35,
  "accept_quantile": 0.29,
  "category_targets": {
   "cleaning": 114.12,
@@ -18,7 +16,7 @@
   "walls/plaster": 449.99,
   "water extraction": 114.12
  },
- "exclusion_words": [],
+ "charge_quantile": 0.35,
  "covered_words": {
   "affected": 232.0,
   "assembly": 135.0,
@@ -76,6 +74,8 @@
   "wool": 197.0,
   "worker": 705.0
  },
+ "exclusion_words": [],
  "games_learned_from": 37,
+ "global_multiplier": 1.037,
  "updated_at": "2026-08-22T20:40:45.662503+00:00"
 }
