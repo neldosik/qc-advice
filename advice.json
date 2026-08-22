@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 21,
+ "calibration_evidence": 17,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
@@ -25,7 +25,7 @@
   "conservatory": 606.0,
   "construction": 57.0,
   "copper": 67.0,
-  "costs": 69.0,
+  "costs": 79.0,
   "damage": 614.0,
   "damaged": 199.0,
   "detection": 460.0,
@@ -63,6 +63,7 @@
   "supply": 330.0,
   "surfaces": 569.0,
   "surge": 310.0,
+  "system": 516.0,
   "table": 300.0,
   "technician": 449.0,
   "transition": 65.0,
@@ -75,8 +76,8 @@
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 28,
- "median_multiplier": 0.958,
+ "games_analyzed": 29,
+ "median_multiplier": 0.873,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -285,6 +286,16 @@
    "items_proven_uncovered": 0,
    "policy_hash": "e4d4db9c30",
    "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    29
+   ],
+   "items_proven_covered": 2,
+   "items_proven_uncovered": 0,
+   "policy_hash": "90eda592a1",
+   "uncovered_share": 0.0
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -293,5 +304,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T18:50:48.712885+00:00"
+ "generated_at": "2026-08-22T18:56:10.033826+00:00"
 }

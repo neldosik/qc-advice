@@ -3629,6 +3629,50 @@
    "t_hat": 18.0,
    "t_soft_lower": 0.0,
    "t_upper": 36.0
+  },
+  {
+   "description": "Water extraction from the flooded plant room 1 pcs",
+   "game_id": 29,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "90eda592a1",
+   "t_hard_lower": 0.0,
+   "t_hat": 50.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 100.0
+  },
+  {
+   "description": "Renew the water-damaged boiler, flue and storage 1 flat rate tank and adjust the supply pipework",
+   "game_id": 29,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "90eda592a1",
+   "t_hard_lower": 0.0,
+   "t_hat": 28.65,
+   "t_soft_lower": 0.0,
+   "t_upper": 57.3
+  },
+  {
+   "description": "Dispose of the old boiler system 1 \u2013",
+   "game_id": 29,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "90eda592a1",
+   "t_hard_lower": 516.03,
+   "t_hat": 516.03,
+   "t_soft_lower": 516.03,
+   "t_upper": null
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 29,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "90eda592a1",
+   "t_hard_lower": 80.23,
+   "t_hat": 82.87,
+   "t_soft_lower": 80.23,
+   "t_upper": 85.5
   }
  ]
 }
