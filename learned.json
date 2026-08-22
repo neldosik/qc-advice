@@ -1,5 +1,5 @@
 {
- "global_multiplier": 1.029,
+ "global_multiplier": 1.004,
  "charge_quantile": 0.35,
  "accept_quantile": 0.2,
  "category_targets": {
@@ -63,5 +63,5 @@
   "construction": 57.0
  },
  "games_learned_from": 26,
- "updated_at": "2026-08-22T18:19:08.880968+00:00"
+ "updated_at": "2026-08-22T18:21:11.678843+00:00"
 }
