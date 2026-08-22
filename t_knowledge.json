@@ -4861,6 +4861,50 @@
    "t_hat": 81.79,
    "t_soft_lower": 81.79,
    "t_upper": null
+  },
+  {
+   "description": "Leak detection and moisture measurement for the 1 flat rate kitchen sink supply leak, incl. technician labour and call-out",
+   "game_id": 38,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7a23f13220",
+   "t_hard_lower": 795.0,
+   "t_hat": 795.0,
+   "t_soft_lower": 795.0,
+   "t_upper": null
+  },
+  {
+   "description": "Freeing, repair and re-insulation of the leaking kitchen 1 flat rate sink supply pipe, incl. replacement copper section",
+   "game_id": 38,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7a23f13220",
+   "t_hard_lower": 521.76,
+   "t_hat": 541.77,
+   "t_soft_lower": 521.76,
+   "t_upper": 561.78
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 38,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7a23f13220",
+   "t_hard_lower": 71.21,
+   "t_hat": 105.69,
+   "t_soft_lower": 71.21,
+   "t_upper": 140.18
+  },
+  {
+   "description": "Drying of the kitchen floor and wall base, incl. 2 pcs condensation dryer",
+   "game_id": 38,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7a23f13220",
+   "t_hard_lower": 431.94,
+   "t_hat": 461.49,
+   "t_soft_lower": 431.94,
+   "t_upper": 491.04
   }
  ]
 }
