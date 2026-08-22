@@ -4003,6 +4003,72 @@
    "t_hat": 10.0,
    "t_soft_lower": 0.0,
    "t_upper": 20.0
+  },
+  {
+   "description": "Damage assessment and inspection 1 flat rate",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 535.5,
+   "t_hat": 535.5,
+   "t_soft_lower": 535.5,
+   "t_upper": null
+  },
+  {
+   "description": "Indoor leak detection incl. measurement technician 1 flat rate and vehicle",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 836.78,
+   "t_hat": 836.78,
+   "t_soft_lower": 836.78,
+   "t_upper": null
+  },
+  {
+   "description": "Floor covering removal incl. linoleum and skirting, 1 flat rate surface preparation and construction-waste disposal",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 0.0,
+   "t_hat": 25.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 50.0
+  },
+  {
+   "description": "Catering for work crew 3 pcs",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 0.0,
+   "t_hat": 0.0,
+   "t_soft_lower": 0.0,
+   "t_upper": null
+  },
+  {
+   "description": "Technical drying (large-area, cavity and borehole) incl. 1 flat rate labour, dust protection and kitchen disinfection",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 0.0,
+   "t_hat": 25.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 50.0
+  },
+  {
+   "description": "Electricity for drying equipment (separately metered) 2,412.1 kWh",
+   "game_id": 33,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "94fdaaafbc",
+   "t_hard_lower": 0.0,
+   "t_hat": 0.0,
+   "t_soft_lower": 0.0,
+   "t_upper": null
   }
  ]
 }

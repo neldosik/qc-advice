@@ -16,7 +16,7 @@
   "cleaning": 114.12,
   "water extraction": 114.12,
   "disposal": 65.0,
-  "vehicle/call-out": 80.23
+  "vehicle/call-out": 80.24
  },
  "exclusion_words": [],
  "covered_words": {
@@ -31,14 +31,14 @@
   "pipe": 108.0,
   "disposal": 65.0,
   "insulation": 147.0,
-  "leak": 410.0,
+  "leak": 432.0,
   "kitchen": 150.0,
   "floor": 150.0,
   "removal": 150.0,
+  "detection": 460.0,
   "wall": 378.0,
-  "detection": 432.0,
-  "cleaning": 100.0,
   "measurement": 184.0,
+  "cleaning": 100.0,
   "moisture": 200.0,
   "skirting": 240.0,
   "replacement": 315.0,
@@ -46,14 +46,15 @@
   "skilled": 629.0,
   "final": 100.0,
   "supply": 360.0,
+  "technician": 498.0,
   "billiard": 454.0,
-  "technician": 449.0,
   "water-damaged": 139.0,
   "construction": 57.0,
   "site": 100.0,
   "boards": 119.0,
   "affected": 232.0,
   "unit": 468.0,
+  "damage": 614.0,
   "replace": 393.0,
   "dryer": 282.0,
   "conservatory": 606.0,
@@ -66,8 +67,8 @@
   "assembly": 135.0,
   "living": 1233.0,
   "remove": 145.0,
-  "damage": 614.0
+  "indoor": 460.0
  },
- "games_learned_from": 32,
- "updated_at": "2026-08-22T19:33:02.402562+00:00"
+ "games_learned_from": 33,
+ "updated_at": "2026-08-22T19:46:00.730525+00:00"
 }
