@@ -3013,6 +3013,17 @@
    "t_hat": 83.22,
    "t_soft_lower": 0.0,
    "t_upper": 166.43
+  },
+  {
+   "description": "Kitchen air conditioning unit - replacement including 3 pcs installation and delivery",
+   "game_id": 22,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "80cab1b4f3",
+   "t_hard_lower": 0.0,
+   "t_hat": 122.85,
+   "t_soft_lower": 0.0,
+   "t_upper": 245.7
   }
  ]
 }
