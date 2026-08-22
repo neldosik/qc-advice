@@ -1,19 +1,19 @@
 {
- "calibration_evidence": 17,
+ "calibration_evidence": 8,
  "category_floors": {
   "cleaning": 114.12,
-  "disposal": 65.0,
-  "drying": 408.17,
+  "disposal": 58.39,
+  "drying": 424.92,
   "electronics": 532.5,
-  "flooring": 232.15,
+  "flooring": 240.0,
   "inspection/report": 227.66,
-  "installation": 300.0,
+  "installation": 378.0,
   "labour hours": 379.65,
   "leak detection": 409.79,
   "moisture measurement": 218.0,
   "skirting": 240.0,
-  "vehicle/call-out": 79.13,
-  "walls/plaster": 569.16,
+  "vehicle/call-out": 80.23,
+  "walls/plaster": 542.64,
   "water extraction": 114.12
  },
  "covered_words": {
@@ -29,9 +29,9 @@
   "damage": 614.0,
   "damaged": 199.0,
   "detection": 460.0,
-  "disposal": 65.0,
+  "disposal": 58.0,
   "dryer": 282.0,
-  "drying": 509.0,
+  "drying": 432.0,
   "elbow": 44.0,
   "electrical": 228.0,
   "final": 100.0,
@@ -47,11 +47,13 @@
   "measurement": 184.0,
   "moisture": 218.0,
   "painting": 650.0,
-  "pipe": 90.0,
+  "pipe": 108.0,
   "pool": 606.0,
   "profipress": 44.0,
+  "rate": 218.0,
   "removal": 153.0,
   "remove": 145.0,
+  "repair": 374.0,
   "replace": 393.0,
   "replacement": 330.0,
   "restore": 569.0,
@@ -69,15 +71,15 @@
   "transition": 65.0,
   "unit": 468.0,
   "vacuum": 114.0,
-  "vehicle": 68.0,
-  "wall": 569.0,
+  "vehicle": 79.0,
+  "wall": 450.0,
   "water": 614.0,
   "water-damaged": 150.0,
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 29,
- "median_multiplier": 0.873,
+ "games_analyzed": 30,
+ "median_multiplier": 0.855,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -146,6 +148,17 @@
    "items_proven_uncovered": 3,
    "policy_hash": "7d2aad143b",
    "uncovered_share": 0.07
+  },
+  {
+   "edition": "",
+   "games": [
+    26,
+    30
+   ],
+   "items_proven_covered": 15,
+   "items_proven_uncovered": 1,
+   "policy_hash": "032711e357",
+   "uncovered_share": 0.06
   },
   {
    "edition": "",
@@ -258,16 +271,6 @@
    "uncovered_share": 0.0
   },
   {
-   "edition": "",
-   "games": [
-    26
-   ],
-   "items_proven_covered": 10,
-   "items_proven_uncovered": 1,
-   "policy_hash": "032711e357",
-   "uncovered_share": 0.09
-  },
-  {
    "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
    "games": [
     27
@@ -304,5 +307,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T19:06:21.228591+00:00"
+ "generated_at": "2026-08-22T19:11:23.186168+00:00"
 }

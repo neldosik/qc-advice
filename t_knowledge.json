@@ -3673,6 +3673,61 @@
    "t_hat": 82.87,
    "t_soft_lower": 80.23,
    "t_upper": 85.5
+  },
+  {
+   "description": "Disassembly/reassembly, construction dryer for the 1 flat rate drying period and standard pipe insulation",
+   "game_id": 30,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 432.0,
+   "t_hat": 455.48,
+   "t_soft_lower": 432.0,
+   "t_upper": 478.96
+  },
+  {
+   "description": "Construction waste disposal 1 flat rate",
+   "game_id": 30,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 57.3,
+   "t_hat": 64.93,
+   "t_soft_lower": 57.3,
+   "t_upper": 72.56
+  },
+  {
+   "description": "Wall preparation, rough repair and mounting opening 1 flat rate in the affected basement area",
+   "game_id": 30,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 378.0,
+   "t_hat": 391.07,
+   "t_soft_lower": 378.0,
+   "t_upper": 404.14
+  },
+  {
+   "description": "Standard wall tiling incl. standard silicone sealant 1 flat rate",
+   "game_id": 30,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 449.99,
+   "t_hat": 449.99,
+   "t_soft_lower": 449.99,
+   "t_upper": null
+  },
+  {
+   "description": "Vehicle costs 1 flat rate",
+   "game_id": 30,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 100.0,
+   "t_hat": 100.0,
+   "t_soft_lower": 100.0,
+   "t_upper": null
   }
  ]
 }
