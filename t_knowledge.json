@@ -3178,6 +3178,171 @@
    "t_hat": 81.0,
    "t_soft_lower": 0.0,
    "t_upper": 162.0
+  },
+  {
+   "description": "Skilled worker hours 8 hrs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 628.82,
+   "t_hat": 628.82,
+   "t_soft_lower": 628.82,
+   "t_upper": null
+  },
+  {
+   "description": "Material for the work 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 118.37,
+   "t_hat": 128.47,
+   "t_soft_lower": 118.37,
+   "t_upper": 138.57
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 81.45,
+   "t_hat": 81.45,
+   "t_soft_lower": 81.45,
+   "t_upper": null
+  },
+  {
+   "description": "Indoor leak detection 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 471.04,
+   "t_hat": 471.04,
+   "t_soft_lower": 471.04,
+   "t_upper": null
+  },
+  {
+   "description": "Room drying 30 m\u00b2 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 424.92,
+   "t_hat": 455.46,
+   "t_soft_lower": 424.92,
+   "t_upper": 486.0
+  },
+  {
+   "description": "Room dryer unit 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 408.17,
+   "t_hat": 466.09,
+   "t_soft_lower": 408.17,
+   "t_upper": 524.0
+  },
+  {
+   "description": "Wet insulation wool from basement 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 198.0,
+   "t_hat": 227.11,
+   "t_soft_lower": 198.0,
+   "t_upper": 256.22
+  },
+  {
+   "description": "Profipress elbow 90\u00b0 copper 28mm model 01 5 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 82.3,
+   "t_hat": 103.45,
+   "t_soft_lower": 82.3,
+   "t_upper": 124.61
+  },
+  {
+   "description": "Transition piece 15x19mm 3 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 65.0,
+   "t_hat": 94.6,
+   "t_soft_lower": 65.0,
+   "t_upper": 124.2
+  },
+  {
+   "description": "Helper hours 5 hrs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 229.17,
+   "t_hat": 233.8,
+   "t_soft_lower": 229.17,
+   "t_upper": 238.43
+  },
+  {
+   "description": "Service technician hours 5.5 hrs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 448.94,
+   "t_hat": 459.77,
+   "t_soft_lower": 448.94,
+   "t_upper": 470.6
+  },
+  {
+   "description": "Vehicle costs 2 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 162.9,
+   "t_hat": 162.9,
+   "t_soft_lower": 162.9,
+   "t_upper": null
+  },
+  {
+   "description": "Skilled worker hours 14 \u2013",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 1097.15,
+   "t_hat": 1097.15,
+   "t_soft_lower": 1097.15,
+   "t_upper": null
+  },
+  {
+   "description": "Material costs 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 0.0,
+   "t_hat": 29.38,
+   "t_soft_lower": 0.0,
+   "t_upper": 58.75
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 25,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "91dab56810",
+   "t_hard_lower": 81.45,
+   "t_hat": 81.45,
+   "t_soft_lower": 81.45,
+   "t_upper": null
   }
  ]
 }
