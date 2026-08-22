@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 16,
+ "calibration_evidence": 17,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 67.89,
@@ -28,6 +28,7 @@
   "boards": 113.0,
   "call-out": 432.0,
   "cleaning": 100.0,
+  "compensation": 7225.0,
   "condensation": 53.0,
   "conservatory": 650.0,
   "construction": 57.0,
@@ -97,8 +98,8 @@
   "wool": 197.0,
   "worker": 629.0
  },
- "games_analyzed": 40,
- "median_multiplier": 1.066,
+ "games_analyzed": 41,
+ "median_multiplier": 1.133,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -171,6 +172,17 @@
    "uncovered_share": 0.07
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
+   "games": [
+    10,
+    41
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 4,
+   "policy_hash": "4fa9117fc8",
+   "uncovered_share": 0.57
+  },
+  {
    "edition": "",
    "games": [
     11,
@@ -212,16 +224,6 @@
    "items_proven_uncovered": 7,
    "policy_hash": "b23abbdca5",
    "uncovered_share": 0.58
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
-   "games": [
-    10
-   ],
-   "items_proven_covered": 2,
-   "items_proven_uncovered": 2,
-   "policy_hash": "4fa9117fc8",
-   "uncovered_share": 0.5
   },
   {
    "edition": "",
@@ -390,5 +392,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T21:26:07.366778+00:00"
+ "generated_at": "2026-08-22T21:26:47.395563+00:00"
 }

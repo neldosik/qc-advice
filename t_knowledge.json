@@ -5081,6 +5081,50 @@
    "t_hat": 218.69,
    "t_soft_lower": 187.37,
    "t_upper": 250.0
+  },
+  {
+   "description": "Translation from Spanish to English 2 hrs",
+   "game_id": 41,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "4fa9117fc8",
+   "t_hard_lower": 0.0,
+   "t_hat": 13.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 27.0
+  },
+  {
+   "description": "Material costs 1 pcs",
+   "game_id": 41,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "4fa9117fc8",
+   "t_hard_lower": 0.0,
+   "t_hat": 0.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 1.0
+  },
+  {
+   "description": "Compensation for robbery damage 1 pcs",
+   "game_id": 41,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4fa9117fc8",
+   "t_hard_lower": 11130.9,
+   "t_hat": 11130.9,
+   "t_soft_lower": 11130.9,
+   "t_upper": null
+  },
+  {
+   "description": "Shipping 1 pcs",
+   "game_id": 41,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "4fa9117fc8",
+   "t_hard_lower": 0.0,
+   "t_hat": 2.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 4.0
   }
  ]
 }
