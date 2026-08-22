@@ -1,5 +1,5 @@
 {
- "global_multiplier": 1.117,
+ "global_multiplier": 1.138,
  "charge_quantile": 0.35,
  "accept_quantile": 0.2,
  "category_targets": {
@@ -8,7 +8,7 @@
   "installation": 431.52,
   "leak detection": 402.5,
   "skirting": 393.49,
-  "labour hours": 379.5,
+  "labour hours": 360.0,
   "drying": 271.44,
   "flooring": 232.15,
   "inspection/report": 227.66,
@@ -16,7 +16,7 @@
   "cleaning": 122.94,
   "water extraction": 114.12,
   "disposal": 65.0,
-  "vehicle/call-out": 63.05
+  "vehicle/call-out": 64.46
  },
  "exclusion_words": [
   "work"
@@ -58,6 +58,6 @@
   "unit": 468.0,
   "remove": 145.0
  },
- "games_learned_from": 22,
- "updated_at": "2026-08-22T17:35:44.762238+00:00"
+ "games_learned_from": 23,
+ "updated_at": "2026-08-22T17:40:05.332981+00:00"
 }
