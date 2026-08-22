@@ -2991,6 +2991,28 @@
    "t_hat": 9.5,
    "t_soft_lower": 0.0,
    "t_upper": 19.0
+  },
+  {
+   "description": "Diagnostic inspection of the cracked laptop 1 pcs",
+   "game_id": 21,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 0.0,
+   "t_hat": 5.42,
+   "t_soft_lower": 0.0,
+   "t_upper": 10.84
+  },
+  {
+   "description": "Laptop screen and lower-right corner repair 1 pcs",
+   "game_id": 21,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 0.0,
+   "t_hat": 83.22,
+   "t_soft_lower": 0.0,
+   "t_upper": 166.43
   }
  ]
 }

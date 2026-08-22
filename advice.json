@@ -60,7 +60,7 @@
   "water-damaged": 130.0,
   "worker": 506.0
  },
- "games_analyzed": 20,
+ "games_analyzed": 21,
  "median_multiplier": 1.149,
  "policies": [
   {
@@ -208,6 +208,16 @@
    "items_proven_uncovered": 1,
    "policy_hash": "aebb723023",
    "uncovered_share": 0.1
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
+   "games": [
+    21
+   ],
+   "items_proven_covered": 0,
+   "items_proven_uncovered": 1,
+   "policy_hash": "906e916483",
+   "uncovered_share": 1.0
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -216,5 +226,5 @@
   "crew",
   "work"
  ],
- "generated_at": "2026-08-22T17:09:28.763460+00:00"
+ "generated_at": "2026-08-22T17:14:30.899478+00:00"
 }
