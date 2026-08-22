@@ -4564,6 +4564,116 @@
    "t_hat": 81.79,
    "t_soft_lower": 81.79,
    "t_upper": null
+  },
+  {
+   "description": "Disassembly and assembly service 1 pcs",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 43.8,
+   "t_soft_lower": 0.0,
+   "t_upper": 87.61
+  },
+  {
+   "description": "Construction dryer 7 days",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 37.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 75.0
+  },
+  {
+   "description": "Rock wool pipe insulation 1 pcs",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 0.0,
+   "t_soft_lower": 0.0,
+   "t_upper": null
+  },
+  {
+   "description": "Construction waste disposal 1 flat rate",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 16.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 33.0
+  },
+  {
+   "description": "Wall tile covering 2.78 m\u00b2",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 25.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 50.0
+  },
+  {
+   "description": "Wall levelling material 1 pcs",
+   "game_id": 36,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 6.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 13.0
+  },
+  {
+   "description": "Rough renovation 2.78 m\u00b2",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 25.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 50.0
+  },
+  {
+   "description": "Silicone joints 3.6 linear m",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 9.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 19.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 12.04,
+   "t_soft_lower": 0.0,
+   "t_upper": 24.08
+  },
+  {
+   "description": "Skilled worker hours 14 hrs",
+   "game_id": 36,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "11a6071f63",
+   "t_hard_lower": 0.0,
+   "t_hat": 202.27,
+   "t_soft_lower": 0.0,
+   "t_upper": 404.54
   }
  ]
 }
