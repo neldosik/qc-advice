@@ -1,5 +1,5 @@
 {
- "global_multiplier": 0.959,
+ "global_multiplier": 0.983,
  "charge_quantile": 0.35,
  "accept_quantile": 0.2,
  "category_targets": {
@@ -70,5 +70,5 @@
   "indoor": 460.0
  },
  "games_learned_from": 34,
- "updated_at": "2026-08-22T19:59:41.574389+00:00"
+ "updated_at": "2026-08-22T20:01:42.079933+00:00"
 }
