@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 12,
+ "calibration_evidence": 28,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
@@ -85,8 +85,8 @@
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 33,
- "median_multiplier": 0.922,
+ "games_analyzed": 34,
+ "median_multiplier": 1.077,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -161,6 +161,17 @@
   {
    "edition": "",
    "games": [
+    13,
+    34
+   ],
+   "items_proven_covered": 33,
+   "items_proven_uncovered": 3,
+   "policy_hash": "ad985041b1",
+   "uncovered_share": 0.08
+  },
+  {
+   "edition": "",
+   "games": [
     26,
     30
    ],
@@ -208,16 +219,6 @@
    "items_proven_uncovered": 0,
    "policy_hash": "5170b68210",
    "uncovered_share": 0.0
-  },
-  {
-   "edition": "",
-   "games": [
-    13
-   ],
-   "items_proven_covered": 13,
-   "items_proven_uncovered": 1,
-   "policy_hash": "ad985041b1",
-   "uncovered_share": 0.07
   },
   {
    "edition": "Policy wording \"WD-2026\" - Break-in Damage to the Building Edition",
@@ -326,5 +327,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T19:56:57.069355+00:00"
+ "generated_at": "2026-08-22T20:00:18.270173+00:00"
 }
