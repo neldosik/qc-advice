@@ -4344,6 +4344,226 @@
    "t_hat": 72.17,
    "t_soft_lower": 72.17,
    "t_upper": null
+  },
+  {
+   "description": "Indoor leak detection 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 476.31,
+   "t_hat": 626.51,
+   "t_soft_lower": 476.31,
+   "t_upper": 776.72
+  },
+  {
+   "description": "Skilled worker hours 8 hrs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 705.36,
+   "t_hat": 705.36,
+   "t_soft_lower": 705.36,
+   "t_upper": null
+  },
+  {
+   "description": "Leak tracing and locating the defect \u2013 \u2013",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 0.0,
+   "t_hat": 19.48,
+   "t_soft_lower": 0.0,
+   "t_upper": 38.96
+  },
+  {
+   "description": "Material for the work 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 116.55,
+   "t_hat": 121.12,
+   "t_soft_lower": 116.55,
+   "t_upper": 125.69
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 81.79,
+   "t_hat": 86.75,
+   "t_soft_lower": 81.79,
+   "t_upper": 91.7
+  },
+  {
+   "description": "Room drying 30 m\u00b2 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 441.34,
+   "t_hat": 501.06,
+   "t_soft_lower": 441.34,
+   "t_upper": 560.79
+  },
+  {
+   "description": "Room dryer unit 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 359.19,
+   "t_hat": 359.19,
+   "t_soft_lower": 359.19,
+   "t_upper": null
+  },
+  {
+   "description": "Room drying 50 m\u00b2 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 346.91,
+   "t_hat": 353.46,
+   "t_soft_lower": 346.91,
+   "t_upper": 360.0
+  },
+  {
+   "description": "Room dryer unit 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 24.0,
+   "t_hat": 34.67,
+   "t_soft_lower": 24.0,
+   "t_upper": 45.35
+  },
+  {
+   "description": "Drying fan 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 0.0,
+   "t_hat": 14.09,
+   "t_soft_lower": 0.0,
+   "t_upper": 28.18
+  },
+  {
+   "description": "Wet insulation wool from basement 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 197.2,
+   "t_hat": 197.2,
+   "t_soft_lower": 197.2,
+   "t_upper": null
+  },
+  {
+   "description": "Profipress elbow 90\u00b0 copper 28mm model 01 5 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 96.0,
+   "t_hat": 96.0,
+   "t_soft_lower": 96.0,
+   "t_upper": null
+  },
+  {
+   "description": "Profipress elbow 45\u00b0 copper 28mm model 02 5 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 96.0,
+   "t_hat": 96.0,
+   "t_soft_lower": 96.0,
+   "t_upper": null
+  },
+  {
+   "description": "Transition piece 15x19mm 3 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 68.1,
+   "t_hat": 68.1,
+   "t_soft_lower": 68.1,
+   "t_upper": null
+  },
+  {
+   "description": "Skilled worker hours 10.5 hrs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 629.41,
+   "t_hat": 669.31,
+   "t_soft_lower": 629.41,
+   "t_upper": 709.2
+  },
+  {
+   "description": "Vehicle costs 2 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 164.52,
+   "t_hat": 164.52,
+   "t_soft_lower": 164.52,
+   "t_upper": null
+  },
+  {
+   "description": "Vehicle costs 2 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 0.0,
+   "t_hat": 20.55,
+   "t_soft_lower": 0.0,
+   "t_upper": 41.1
+  },
+  {
+   "description": "Skilled worker hours 14 \u2013",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 1099.5,
+   "t_hat": 1099.5,
+   "t_soft_lower": 1099.5,
+   "t_upper": null
+  },
+  {
+   "description": "Material costs 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 0.0,
+   "t_hat": 16.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 33.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 35,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "28d9eeaee7",
+   "t_hard_lower": 81.79,
+   "t_hat": 81.79,
+   "t_soft_lower": 81.79,
+   "t_upper": null
   }
  ]
 }
