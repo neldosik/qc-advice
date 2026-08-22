@@ -4,21 +4,8 @@ Auto-published snapshots from the team analytics stack (refreshed ~5 min).
 
 ## The CLI (for teammates + their Claude Code agents)
 
-Proper install (gives you a real `qc` command):
-
-    pip install git+https://github.com/neldosik/qc-advice
-    qc --help
-
-Zero-install with uv:
-
-    uvx --from git+https://github.com/neldosik/qc-advice qc problems
-
-Or just curl the single file:
-
     curl -sL https://raw.githubusercontent.com/neldosik/qc-advice/main/qc_cli.py -o qc_cli.py
     python qc_cli.py --help
-
-No CLI at all? The raw JSON files below are plain URLs — `curl` them.
 
 Commands: advice / learned / knowledge / opponents / standings / games /
 problems / heartbeats / export / raw. Stdlib-only, prints JSON. Tries the
