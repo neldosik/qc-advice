@@ -1,17 +1,17 @@
 {
- "calibration_evidence": 42,
+ "calibration_evidence": 25,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
   "drying": 408.17,
   "electronics": 513.01,
-  "flooring": 240.0,
-  "inspection/report": 227.66,
+  "flooring": 353.46,
+  "inspection/report": 300.0,
   "installation": 378.0,
   "labour hours": 497.9,
   "leak detection": 460.0,
   "moisture measurement": 218.0,
-  "skirting": 240.0,
+  "skirting": 393.49,
   "vehicle/call-out": 81.0,
   "walls/plaster": 431.94,
   "water extraction": 114.12
@@ -20,6 +20,7 @@
   "affected": 232.0,
   "area": 232.0,
   "assembly": 135.0,
+  "assessment": 536.0,
   "base": 155.0,
   "basement": 202.0,
   "beneath": 402.0,
@@ -43,6 +44,7 @@
   "final": 100.0,
   "flat": 240.0,
   "floor": 155.0,
+  "hallway": 300.0,
   "helper": 254.0,
   "hours": 506.0,
   "indoor": 471.0,
@@ -61,7 +63,7 @@
   "pool": 606.0,
   "profipress": 96.0,
   "rate": 240.0,
-  "removal": 150.0,
+  "removal": 153.0,
   "remove": 145.0,
   "repair": 374.0,
   "replace": 393.0,
@@ -71,8 +73,8 @@
   "service": 449.0,
   "sink": 432.0,
   "site": 100.0,
-  "skilled": 705.0,
-  "skirting": 240.0,
+  "skilled": 629.0,
+  "skirting": 393.0,
   "speaker": 310.0,
   "supply": 432.0,
   "surfaces": 569.0,
@@ -82,18 +84,19 @@
   "technician": 498.0,
   "transition": 67.0,
   "transport": 146.0,
-  "unit": 408.0,
+  "unit": 468.0,
   "upgrade": 489.0,
+  "utility": 423.0,
   "vacuum": 114.0,
   "vehicle": 80.0,
   "wall": 432.0,
   "water": 614.0,
-  "water-damaged": 139.0,
+  "water-damaged": 150.0,
   "wool": 197.0,
   "worker": 705.0
  },
- "games_analyzed": 38,
- "median_multiplier": 1.066,
+ "games_analyzed": 39,
+ "median_multiplier": 1.028,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -357,6 +360,16 @@
    "items_proven_uncovered": 0,
    "policy_hash": "7a23f13220",
    "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    39
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 0,
+   "policy_hash": "4ac31c544c",
+   "uncovered_share": 0.0
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -365,5 +378,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T21:01:07.060774+00:00"
+ "generated_at": "2026-08-22T21:01:33.585111+00:00"
 }

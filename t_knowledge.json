@@ -4905,6 +4905,39 @@
    "t_hat": 461.49,
    "t_soft_lower": 431.94,
    "t_upper": 491.04
+  },
+  {
+   "description": "Floor cleaning, washing machine connection check, 4 pcs and removal and replacement of water-damaged skirting boards in the utility room and hallway",
+   "game_id": 39,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 423.0,
+   "t_hat": 438.62,
+   "t_soft_lower": 423.0,
+   "t_upper": 454.24
+  },
+  {
+   "description": "Moisture measurement and drying of the utility room 1 flat rate and hallway floor, incl. drying unit and skilled labour",
+   "game_id": 39,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 554.82,
+   "t_hat": 632.27,
+   "t_soft_lower": 554.82,
+   "t_upper": 709.72
+  },
+  {
+   "description": "Assessment and drying of a small framed decorative 2 pcs print from the hallway",
+   "game_id": 39,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "4ac31c544c",
+   "t_hard_lower": 300.0,
+   "t_hat": 300.0,
+   "t_soft_lower": 300.0,
+   "t_upper": null
   }
  ]
 }
