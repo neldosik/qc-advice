@@ -3057,6 +3057,127 @@
    "t_hat": 150.0,
    "t_soft_lower": 150.0,
    "t_upper": null
+  },
+  {
+   "description": "Leak detection and moisture survey across affected 2 pcs rooms",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 490.2,
+   "t_hat": 595.1,
+   "t_soft_lower": 490.2,
+   "t_upper": 700.0
+  },
+  {
+   "description": "Strip-out and drying of guest WC, stairwell, living 1 flat rate room and hobby room",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 1365.0,
+   "t_hat": 1520.47,
+   "t_soft_lower": 1365.0,
+   "t_upper": 1675.94
+  },
+  {
+   "description": "Reinstate parquet, skirting and floor coverings on the 1 flat rate water's path",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 240.0,
+   "t_hat": 562.02,
+   "t_soft_lower": 240.0,
+   "t_upper": 884.05
+  },
+  {
+   "description": "Restore and refinish plasterboard ceilings and wall 1 flat rate surfaces",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 1024.0,
+   "t_hat": 1322.0,
+   "t_soft_lower": 1024.0,
+   "t_upper": 1620.0
+  },
+  {
+   "description": "Replace fill valve in toilet cistern 1 flat rate",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 240.0,
+   "t_hat": 240.0,
+   "t_soft_lower": 240.0,
+   "t_upper": null
+  },
+  {
+   "description": "Final site cleaning 1 pcs",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 91.0,
+   "t_hat": 105.9,
+   "t_soft_lower": 91.0,
+   "t_upper": 120.8
+  },
+  {
+   "description": "Billiard table inspection, disassembly, re-covering and 3 pcs reassembly",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 921.96,
+   "t_hat": 1000.98,
+   "t_soft_lower": 921.96,
+   "t_upper": 1080.0
+  },
+  {
+   "description": "Replace billiard cloth, cue sets and overhead lighting 3 pcs fixture",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 1071.78,
+   "t_hat": 1288.39,
+   "t_soft_lower": 1071.78,
+   "t_upper": 1505.0
+  },
+  {
+   "description": "Specialist cleaning and removal of water-damaged rug 2 pcs",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 257.62,
+   "t_hat": 273.92,
+   "t_soft_lower": 257.62,
+   "t_upper": 290.22
+  },
+  {
+   "description": "Electrical inspection of robot vacuum cleaner 1 pcs",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 102.79,
+   "t_hat": 126.4,
+   "t_soft_lower": 102.79,
+   "t_upper": 150.0
+  },
+  {
+   "description": "Replacement robot vacuum cleaner (total loss) 1 pcs",
+   "game_id": 24,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "7d2aad143b",
+   "t_hard_lower": 0.0,
+   "t_hat": 81.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 162.0
   }
  ]
 }
