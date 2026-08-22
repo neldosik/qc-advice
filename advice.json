@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 13,
+ "calibration_evidence": 7,
  "category_floors": {
   "cleaning": 122.94,
   "disposal": 65.0,
@@ -8,11 +8,11 @@
   "flooring": 232.15,
   "inspection/report": 227.66,
   "installation": 431.52,
-  "labour hours": 379.5,
+  "labour hours": 360.0,
   "leak detection": 402.5,
   "moisture measurement": 200.0,
   "skirting": 393.49,
-  "vehicle/call-out": 63.05,
+  "vehicle/call-out": 64.46,
   "walls/plaster": 569.16,
   "water extraction": 114.12
  },
@@ -23,6 +23,7 @@
   "conservatory": 606.0,
   "copper": 54.0,
   "costs": 64.0,
+  "damage": 614.0,
   "damaged": 199.0,
   "detection": 410.0,
   "disposal": 65.0,
@@ -60,8 +61,8 @@
   "water-damaged": 130.0,
   "worker": 506.0
  },
- "games_analyzed": 22,
- "median_multiplier": 1.168,
+ "games_analyzed": 23,
+ "median_multiplier": 1.151,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -219,6 +220,16 @@
    "items_proven_uncovered": 1,
    "policy_hash": "906e916483",
    "uncovered_share": 1.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
+   "games": [
+    23
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 0,
+   "policy_hash": "88a3f39293",
+   "uncovered_share": 0.0
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -227,5 +238,5 @@
   "crew",
   "work"
  ],
- "generated_at": "2026-08-22T17:34:39.267883+00:00"
+ "generated_at": "2026-08-22T17:39:41.331813+00:00"
 }

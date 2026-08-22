@@ -3024,6 +3024,39 @@
    "t_hat": 122.85,
    "t_soft_lower": 0.0,
    "t_upper": 245.7
+  },
+  {
+   "description": "Recover stolen bicycle from secured location, incl. 3 pcs locksmith call-out and cutting of seized lock",
+   "game_id": 23,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 143.41,
+   "t_hat": 154.39,
+   "t_soft_lower": 143.41,
+   "t_upper": 165.38
+  },
+  {
+   "description": "Repair theft damage to bicycle (frame and brakes) 2 pcs",
+   "game_id": 23,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 374.5,
+   "t_hat": 385.25,
+   "t_soft_lower": 374.5,
+   "t_upper": 396.0
+  },
+  {
+   "description": "Labour and sundries 1 flat rate",
+   "game_id": 23,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 150.0,
+   "t_hat": 150.0,
+   "t_soft_lower": 150.0,
+   "t_upper": null
   }
  ]
 }
