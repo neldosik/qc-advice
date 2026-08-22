@@ -3519,6 +3519,116 @@
    "t_hat": 3.5,
    "t_soft_lower": 0.0,
    "t_upper": 7.0
+  },
+  {
+   "description": "Electrician labour checking and rewiring the flooded 12 hrs basement circuits",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 201.47,
+   "t_soft_lower": 0.0,
+   "t_upper": 402.95
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 12.14,
+   "t_soft_lower": 0.0,
+   "t_upper": 24.28
+  },
+  {
+   "description": "Procurement of a motor pump 1 pcs",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Submersible pump 1 pcs",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Water extraction from the flooded basement 1 pcs",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Small electrical materials for the rewiring 1 pcs",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 23.57,
+   "t_soft_lower": 0.0,
+   "t_upper": 47.15
+  },
+  {
+   "description": "Renew boiler system including flue gas system and 1 flat rate storage tank",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Adjust supply pipework to fit the replacement boiler 1 flat rate",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Dispose of the old boiler system 1 \u2013",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 24.75,
+   "t_soft_lower": 0.0,
+   "t_upper": 49.5
+  },
+  {
+   "description": "Vehicle costs \u2013 \u2013",
+   "game_id": 28,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "e4d4db9c30",
+   "t_hard_lower": 0.0,
+   "t_hat": 18.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 36.0
   }
  ]
 }

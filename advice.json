@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 23,
+ "calibration_evidence": 21,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
@@ -75,8 +75,8 @@
   "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 27,
- "median_multiplier": 0.967,
+ "games_analyzed": 28,
+ "median_multiplier": 0.958,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -275,6 +275,16 @@
    "items_proven_uncovered": 2,
    "policy_hash": "fa547b5e0f",
    "uncovered_share": 0.67
+  },
+  {
+   "edition": "",
+   "games": [
+    28
+   ],
+   "items_proven_covered": 0,
+   "items_proven_uncovered": 0,
+   "policy_hash": "e4d4db9c30",
+   "uncovered_share": 0.0
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -283,5 +293,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T18:40:44.270329+00:00"
+ "generated_at": "2026-08-22T18:45:46.574836+00:00"
 }
