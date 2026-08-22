@@ -6,7 +6,7 @@
   "drying": 359.19,
   "electronics": 513.01,
   "flooring": 232.15,
-  "inspection/report": 300.0,
+  "inspection/report": 227.66,
   "installation": 378.0,
   "labour hours": 497.9,
   "leak detection": 432.0,
@@ -54,7 +54,7 @@
   "hours": 498.0,
   "indoor": 471.0,
   "inspect": 228.0,
-  "inspection": 136.0,
+  "inspection": 135.0,
   "insulation": 153.0,
   "kitchen": 155.0,
   "leak": 460.0,
@@ -104,8 +104,8 @@
   "wool": 197.0,
   "worker": 629.0
  },
- "games_analyzed": 42,
- "median_multiplier": 1.133,
+ "games_analyzed": 43,
+ "median_multiplier": 1.241,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -211,6 +211,17 @@
    "uncovered_share": 0.08
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
+   "games": [
+    21,
+    43
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 2,
+   "policy_hash": "906e916483",
+   "uncovered_share": 0.4
+  },
+  {
    "edition": "",
    "games": [
     26,
@@ -281,16 +292,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "aebb723023",
    "uncovered_share": 0.1
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
-   "games": [
-    21
-   ],
-   "items_proven_covered": 0,
-   "items_proven_uncovered": 1,
-   "policy_hash": "906e916483",
-   "uncovered_share": 1.0
   },
   {
    "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
@@ -399,5 +400,5 @@
   "crew",
   "shipping"
  ],
- "generated_at": "2026-08-22T21:51:44.623794+00:00"
+ "generated_at": "2026-08-22T21:55:54.590118+00:00"
 }

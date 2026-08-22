@@ -5312,6 +5312,50 @@
    "t_hat": 4.0,
    "t_soft_lower": 0.0,
    "t_upper": 8.0
+  },
+  {
+   "description": "Laptop screen crack repair 1 pcs",
+   "game_id": 43,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 434.94,
+   "t_hat": 434.94,
+   "t_soft_lower": 434.94,
+   "t_upper": null
+  },
+  {
+   "description": "Lower-right corner and housing repair 1 pcs",
+   "game_id": 43,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 229.29,
+   "t_hat": 229.29,
+   "t_soft_lower": 229.29,
+   "t_upper": null
+  },
+  {
+   "description": "Polish of pre-existing lid scuff (surface only, does not \u2013 \u2013 affect operation)",
+   "game_id": 43,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 0.0,
+   "t_hat": 4.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 8.0
+  },
+  {
+   "description": "Diagnostic inspection 1 pcs",
+   "game_id": 43,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "906e916483",
+   "t_hard_lower": 111.99,
+   "t_hat": 111.99,
+   "t_soft_lower": 111.99,
+   "t_upper": null
   }
  ]
 }
