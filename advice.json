@@ -1,33 +1,36 @@
 {
- "calibration_evidence": 19,
+ "calibration_evidence": 23,
  "category_floors": {
   "cleaning": 114.12,
   "disposal": 65.0,
-  "drying": 424.92,
+  "drying": 408.17,
   "electronics": 532.5,
   "flooring": 232.15,
   "inspection/report": 227.66,
-  "installation": 431.52,
-  "labour hours": 379.5,
+  "installation": 300.0,
+  "labour hours": 379.65,
   "leak detection": 409.79,
   "moisture measurement": 218.0,
   "skirting": 240.0,
-  "vehicle/call-out": 67.9,
+  "vehicle/call-out": 79.13,
   "walls/plaster": 569.16,
   "water extraction": 114.12
  },
  "covered_words": {
   "affected": 232.0,
+  "assembly": 135.0,
   "billiard": 454.0,
   "boards": 119.0,
   "cleaning": 100.0,
   "conservatory": 606.0,
+  "construction": 57.0,
   "copper": 67.0,
   "costs": 69.0,
   "damage": 614.0,
   "damaged": 199.0,
   "detection": 460.0,
   "disposal": 65.0,
+  "dryer": 282.0,
   "drying": 509.0,
   "elbow": 44.0,
   "electrical": 228.0,
@@ -41,11 +44,11 @@
   "kitchen": 180.0,
   "leak": 410.0,
   "living": 1233.0,
-  "material": 150.0,
+  "material": 118.0,
   "measurement": 184.0,
   "moisture": 218.0,
   "painting": 650.0,
-  "pipe": 108.0,
+  "pipe": 90.0,
   "pool": 606.0,
   "profipress": 44.0,
   "removal": 153.0,
@@ -54,6 +57,7 @@
   "replacement": 330.0,
   "restore": 569.0,
   "room": 438.0,
+  "service": 380.0,
   "site": 100.0,
   "skilled": 629.0,
   "skirting": 240.0,
@@ -65,14 +69,15 @@
   "transition": 65.0,
   "unit": 468.0,
   "vacuum": 114.0,
-  "vehicle": 64.0,
-  "wall": 614.0,
+  "vehicle": 68.0,
+  "wall": 569.0,
   "water": 614.0,
   "water-damaged": 150.0,
+  "wool": 76.0,
   "worker": 629.0
  },
- "games_analyzed": 25,
- "median_multiplier": 1.129,
+ "games_analyzed": 26,
+ "median_multiplier": 0.967,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -251,6 +256,16 @@
    "items_proven_uncovered": 0,
    "policy_hash": "91dab56810",
    "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    26
+   ],
+   "items_proven_covered": 10,
+   "items_proven_uncovered": 1,
+   "policy_hash": "032711e357",
+   "uncovered_share": 0.09
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
@@ -258,5 +273,5 @@
   "catering",
   "crew"
  ],
- "generated_at": "2026-08-22T18:15:16.553886+00:00"
+ "generated_at": "2026-08-22T18:20:19.941203+00:00"
 }

@@ -3343,6 +3343,138 @@
    "t_hat": 81.45,
    "t_soft_lower": 81.45,
    "t_upper": null
+  },
+  {
+   "description": "Disassembly and assembly service 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 95.47,
+   "t_hat": 100.84,
+   "t_soft_lower": 95.47,
+   "t_upper": 106.2
+  },
+  {
+   "description": "Construction dryer 7 days",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 282.33,
+   "t_hat": 330.16,
+   "t_soft_lower": 282.33,
+   "t_upper": 378.0
+  },
+  {
+   "description": "Rock wool pipe insulation 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 37.17,
+   "t_hat": 39.55,
+   "t_soft_lower": 37.17,
+   "t_upper": 41.94
+  },
+  {
+   "description": "Construction waste disposal 1 flat rate",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 58.39,
+   "t_hat": 59.2,
+   "t_soft_lower": 58.39,
+   "t_upper": 60.0
+  },
+  {
+   "description": "Wall levelling material 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 65.0,
+   "t_hat": 65.0,
+   "t_soft_lower": 65.0,
+   "t_upper": null
+  },
+  {
+   "description": "Rough renovation 2.78 m\u00b2",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 181.39,
+   "t_hat": 193.99,
+   "t_soft_lower": 181.39,
+   "t_upper": 206.58
+  },
+  {
+   "description": "Mounting / service opening 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 130.23,
+   "t_hat": 153.49,
+   "t_soft_lower": 130.23,
+   "t_upper": 176.75
+  },
+  {
+   "description": "Premium large-format designer wall tiles 120 x 120 5 pcs cm (upgraded from the original standard basement tiles)",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 0.0,
+   "t_hat": 21.8,
+   "t_soft_lower": 0.0,
+   "t_upper": 43.6
+  },
+  {
+   "description": "Premium grout 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 11.3,
+   "t_hat": 11.47,
+   "t_soft_lower": 11.3,
+   "t_upper": 11.64
+  },
+  {
+   "description": "Premium silicone sealant 12 m",
+   "game_id": 26,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 0.0,
+   "t_hat": 7.28,
+   "t_soft_lower": 0.0,
+   "t_upper": 14.56
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 81.0,
+   "t_hat": 81.0,
+   "t_soft_lower": 81.0,
+   "t_upper": null
+  },
+  {
+   "description": "Skilled worker hours 14 hrs",
+   "game_id": 26,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "032711e357",
+   "t_hard_lower": 980.01,
+   "t_hat": 980.01,
+   "t_soft_lower": 980.01,
+   "t_upper": null
   }
  ]
 }
