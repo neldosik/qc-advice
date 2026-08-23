@@ -215,7 +215,7 @@
    "paid_out": 202645.3
   }
  },
- "generated_at": 1787436666.1112082,
+ "generated_at": 1787471808.1768847,
  "learner_heartbeats": [
   {
    "changes": [
@@ -328,221 +328,289 @@
  "opponents": [
   {
    "avg_charge_vs_t": 0.88,
-   "last_games_net": [],
+   "last_games_net": [
+    146517.0,
+    53465.0,
+    43402.0
+   ],
    "max_accepted": 12000.0,
    "n_above_t": 188,
    "n_bills_revealed": 378,
    "n_caught_hidden": 54,
    "n_fair": 190,
-   "net_total": null,
+   "net_total": 619424.1574999999,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Codacabana",
    "wrongful_rejects": 1142
   },
   {
-   "avg_charge_vs_t": 0.76,
-   "last_games_net": [],
-   "max_accepted": 3780.0,
-   "n_above_t": 198,
-   "n_bills_revealed": 417,
-   "n_caught_hidden": 46,
-   "n_fair": 219,
-   "net_total": null,
-   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "error404 ai",
-   "wrongful_rejects": 1255
-  },
-  {
-   "avg_charge_vs_t": 0.69,
-   "last_games_net": [],
-   "max_accepted": 5969.04,
-   "n_above_t": 155,
-   "n_bills_revealed": 387,
-   "n_caught_hidden": 45,
-   "n_fair": 232,
-   "net_total": null,
-   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Non Deterministic",
-   "wrongful_rejects": 1588
-  },
-  {
-   "avg_charge_vs_t": 0.78,
-   "last_games_net": [],
-   "max_accepted": 3500.0,
-   "n_above_t": 169,
-   "n_bills_revealed": 312,
-   "n_caught_hidden": 127,
-   "n_fair": 143,
-   "net_total": null,
-   "strategy_label": "sharp pricer (bills near t); fraud-prone: reject their bills aggressively; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Bin busy",
-   "wrongful_rejects": 1726
-  },
-  {
    "avg_charge_vs_t": 0.66,
-   "last_games_net": [],
-   "max_accepted": 4500.0,
-   "n_above_t": 155,
-   "n_bills_revealed": 398,
-   "n_caught_hidden": 39,
-   "n_fair": 243,
-   "net_total": null,
-   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "TakeTheMoneyAndRun",
-   "wrongful_rejects": 1691
-  },
-  {
-   "avg_charge_vs_t": 0.8,
-   "last_games_net": [],
-   "max_accepted": 6120.0,
-   "n_above_t": 113,
-   "n_bills_revealed": 283,
-   "n_caught_hidden": 10,
-   "n_fair": 170,
-   "net_total": null,
-   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "OPUSMOPUS",
-   "wrongful_rejects": 1074
-  },
-  {
-   "avg_charge_vs_t": 0.66,
-   "last_games_net": [],
+   "last_games_net": [
+    54394.0,
+    39850.0,
+    38737.0
+   ],
    "max_accepted": 8909.96,
    "n_above_t": 177,
    "n_bills_revealed": 406,
    "n_caught_hidden": 13,
    "n_fair": 229,
-   "net_total": null,
+   "net_total": 529033.3024999998,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "eyay",
    "wrongful_rejects": 2104
   },
   {
-   "avg_charge_vs_t": 0.73,
-   "last_games_net": [],
-   "max_accepted": 4964.89,
-   "n_above_t": 131,
-   "n_bills_revealed": 353,
-   "n_caught_hidden": 19,
-   "n_fair": 222,
-   "net_total": null,
+   "avg_charge_vs_t": 0.76,
+   "last_games_net": [
+    37851.0,
+    -19934.0,
+    -8293.0
+   ],
+   "max_accepted": 3780.0,
+   "n_above_t": 198,
+   "n_bills_revealed": 417,
+   "n_caught_hidden": 46,
+   "n_fair": 219,
+   "net_total": 435414.1074999996,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "harissa eagles",
-   "wrongful_rejects": 1191
+   "team": "error404 ai",
+   "wrongful_rejects": 1255
+  },
+  {
+   "avg_charge_vs_t": 0.66,
+   "last_games_net": [
+    118367.0,
+    21930.0,
+    49453.0
+   ],
+   "max_accepted": 4500.0,
+   "n_above_t": 155,
+   "n_bills_revealed": 398,
+   "n_caught_hidden": 39,
+   "n_fair": 243,
+   "net_total": 304701.36750000017,
+   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "TakeTheMoneyAndRun",
+   "wrongful_rejects": 1691
+  },
+  {
+   "avg_charge_vs_t": 0.78,
+   "last_games_net": [
+    96869.0,
+    1948.0,
+    22524.0
+   ],
+   "max_accepted": 3500.0,
+   "n_above_t": 169,
+   "n_bills_revealed": 312,
+   "n_caught_hidden": 127,
+   "n_fair": 143,
+   "net_total": 220871.82000000012,
+   "strategy_label": "sharp pricer (bills near t); fraud-prone: reject their bills aggressively; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Bin busy",
+   "wrongful_rejects": 1726
+  },
+  {
+   "avg_charge_vs_t": 0.69,
+   "last_games_net": [
+    80412.0,
+    23686.0,
+    9357.0
+   ],
+   "max_accepted": 5969.04,
+   "n_above_t": 155,
+   "n_bills_revealed": 387,
+   "n_caught_hidden": 45,
+   "n_fair": 232,
+   "net_total": 59403.21000000012,
+   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Non Deterministic",
+   "wrongful_rejects": 1588
   },
   {
    "avg_charge_vs_t": 0.72,
-   "last_games_net": [],
+   "last_games_net": [
+    182296.0,
+    -15057.0,
+    -15469.0
+   ],
    "max_accepted": 3353.37,
    "n_above_t": 170,
    "n_bills_revealed": 340,
    "n_caught_hidden": 41,
    "n_fair": 170,
-   "net_total": null,
+   "net_total": -161339.065,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "AsianSuperNerds",
    "wrongful_rejects": 2041
   },
   {
-   "avg_charge_vs_t": 0.79,
-   "last_games_net": [],
-   "max_accepted": 2755.38,
-   "n_above_t": 116,
-   "n_bills_revealed": 309,
-   "n_caught_hidden": 28,
-   "n_fair": 193,
-   "net_total": null,
-   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Alpha",
-   "wrongful_rejects": 1772
-  },
-  {
-   "avg_charge_vs_t": 0.77,
-   "last_games_net": [],
-   "max_accepted": 11130.9,
-   "n_above_t": 124,
-   "n_bills_revealed": 303,
-   "n_caught_hidden": 37,
-   "n_fair": 179,
-   "net_total": null,
-   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Nullpointer Naan",
-   "wrongful_rejects": 742
-  },
-  {
    "avg_charge_vs_t": 0.8,
-   "last_games_net": [],
+   "last_games_net": [
+    -20289.0,
+    33614.0,
+    9650.0
+   ],
    "max_accepted": 3610.0,
    "n_above_t": 191,
    "n_bills_revealed": 386,
    "n_caught_hidden": 67,
    "n_fair": 195,
-   "net_total": null,
+   "net_total": -256476.2949999999,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Teamers",
    "wrongful_rejects": 1149
   },
   {
    "avg_charge_vs_t": 0.69,
-   "last_games_net": [],
+   "last_games_net": [
+    134439.0,
+    28259.0,
+    47710.0
+   ],
    "max_accepted": 2376.5,
    "n_above_t": 143,
    "n_bills_revealed": 331,
    "n_caught_hidden": 98,
    "n_fair": 188,
-   "net_total": null,
+   "net_total": -704497.3674999998,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Oasis",
    "wrongful_rejects": 1210
   },
   {
    "avg_charge_vs_t": 0.69,
-   "last_games_net": [],
+   "last_games_net": [
+    -41846.0,
+    -33343.0,
+    -32857.0
+   ],
    "max_accepted": 12000.0,
    "n_above_t": 62,
    "n_bills_revealed": 226,
    "n_caught_hidden": 6,
    "n_fair": 164,
-   "net_total": null,
+   "net_total": -967243.4299999996,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Claims Renaissance",
    "wrongful_rejects": 1530
   },
   {
-   "avg_charge_vs_t": 0.57,
-   "last_games_net": [],
-   "max_accepted": 3430.0,
-   "n_above_t": 73,
-   "n_bills_revealed": 206,
-   "n_caught_hidden": 12,
-   "n_fair": 133,
-   "net_total": null,
-   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Trust Nobody",
-   "wrongful_rejects": 2014
+   "avg_charge_vs_t": 0.8,
+   "last_games_net": [
+    -343471.0,
+    -100616.0,
+    -174574.0
+   ],
+   "max_accepted": 6120.0,
+   "n_above_t": 113,
+   "n_bills_revealed": 283,
+   "n_caught_hidden": 10,
+   "n_fair": 170,
+   "net_total": -1173101.6575,
+   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "OPUSMOPUS",
+   "wrongful_rejects": 1074
+  },
+  {
+   "avg_charge_vs_t": 0.79,
+   "last_games_net": [
+    -276887.0,
+    -54639.0,
+    -64733.0
+   ],
+   "max_accepted": 2755.38,
+   "n_above_t": 116,
+   "n_bills_revealed": 309,
+   "n_caught_hidden": 28,
+   "n_fair": 193,
+   "net_total": -1298925.05,
+   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Alpha",
+   "wrongful_rejects": 1772
+  },
+  {
+   "avg_charge_vs_t": 0.77,
+   "last_games_net": [
+    -239999.0,
+    -66057.0,
+    -174574.0
+   ],
+   "max_accepted": 11130.9,
+   "n_above_t": 124,
+   "n_bills_revealed": 303,
+   "n_caught_hidden": 37,
+   "n_fair": 179,
+   "net_total": -1359201.4000000001,
+   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Nullpointer Naan",
+   "wrongful_rejects": 742
   },
   {
    "avg_charge_vs_t": 0.74,
-   "last_games_net": [],
+   "last_games_net": [
+    -162513.0,
+    -15050.0,
+    23025.0
+   ],
    "max_accepted": 12000.0,
    "n_above_t": 104,
    "n_bills_revealed": 245,
    "n_caught_hidden": 30,
    "n_fair": 141,
-   "net_total": null,
+   "net_total": -1405718.7199999997,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "TBD",
    "wrongful_rejects": 1629
   },
   {
+   "avg_charge_vs_t": 0.73,
+   "last_games_net": [
+    -343471.0,
+    -100616.0,
+    -174574.0
+   ],
+   "max_accepted": 4964.89,
+   "n_above_t": 131,
+   "n_bills_revealed": 353,
+   "n_caught_hidden": 19,
+   "n_fair": 222,
+   "net_total": -1550064.2325000004,
+   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "harissa eagles",
+   "wrongful_rejects": 1191
+  },
+  {
+   "avg_charge_vs_t": 0.57,
+   "last_games_net": [
+    -181004.0,
+    -79564.0,
+    -43849.0
+   ],
+   "max_accepted": 3430.0,
+   "n_above_t": 73,
+   "n_bills_revealed": 206,
+   "n_caught_hidden": 12,
+   "n_fair": 133,
+   "net_total": -1595740.6699999995,
+   "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Trust Nobody",
+   "wrongful_rejects": 2014
+  },
+  {
    "avg_charge_vs_t": null,
-   "last_games_net": [],
+   "last_games_net": [
+    -343471.0,
+    -100616.0,
+    -174574.0
+   ],
    "max_accepted": 0.0,
    "n_above_t": 0,
    "n_bills_revealed": 0,
    "n_caught_hidden": 0,
    "n_fair": 0,
-   "net_total": null,
+   "net_total": -3339662.504999999,
    "strategy_label": "GHOST: never bills; if they also reject all, every fair bill of ours earns 1.5x from them",
    "team": "makalu",
    "wrongful_rejects": 3011
@@ -1574,7 +1642,76 @@
    "uncovered_share": 0.0
   }
  ],
- "standings": [],
+ "standings": [
+  {
+   "net": 619424.1574999999,
+   "team": "Codacabana"
+  },
+  {
+   "net": 529033.3024999998,
+   "team": "eyay"
+  },
+  {
+   "net": 435414.1074999996,
+   "team": "error404 ai"
+  },
+  {
+   "net": 304701.36750000017,
+   "team": "TakeTheMoneyAndRun"
+  },
+  {
+   "net": 220871.82000000012,
+   "team": "Bin busy"
+  },
+  {
+   "net": 59403.21000000012,
+   "team": "Non Deterministic"
+  },
+  {
+   "net": -161339.065,
+   "team": "AsianSuperNerds"
+  },
+  {
+   "net": -256476.2949999999,
+   "team": "Teamers"
+  },
+  {
+   "net": -704497.3674999998,
+   "team": "Oasis"
+  },
+  {
+   "net": -967243.4299999996,
+   "team": "Claims Renaissance"
+  },
+  {
+   "net": -1173101.6575,
+   "team": "OPUSMOPUS"
+  },
+  {
+   "net": -1298925.05,
+   "team": "Alpha"
+  },
+  {
+   "net": -1359201.4000000001,
+   "team": "Nullpointer Naan"
+  },
+  {
+   "net": -1405718.7199999997,
+   "team": "TBD"
+  },
+  {
+   "net": -1550064.2325000004,
+   "team": "harissa eagles"
+  },
+  {
+   "net": -1595740.6699999995,
+   "team": "Trust Nobody"
+  },
+  {
+   "net": -3339662.504999999,
+   "team": "makalu"
+  }
+ ],
  "team": "Teamers",
  "word_coverage": [
   {
