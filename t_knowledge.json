@@ -12737,6 +12737,39 @@
    "t_hat": 4.5,
    "t_soft_lower": 0.0,
    "t_upper": 9.0
+  },
+  {
+   "description": "Stolen jewellery - several unscheduled pieces, 1 pcs including one ring worth well above the single-article limit",
+   "game_id": 100,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "64b909aa84",
+   "t_hard_lower": 2542.0,
+   "t_hat": 3056.2,
+   "t_soft_lower": 2542.0,
+   "t_upper": 3570.41
+  },
+  {
+   "description": "Stolen clothing and personal effects (everyday wear) 1 pcs",
+   "game_id": 100,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "64b909aa84",
+   "t_hard_lower": 1575.0,
+   "t_hat": 1575.0,
+   "t_soft_lower": 1575.0,
+   "t_upper": null
+  },
+  {
+   "description": "Emergency boarding and lock replacement for the 1 flat rate forced front door",
+   "game_id": 100,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "64b909aa84",
+   "t_hard_lower": 235.0,
+   "t_hat": 267.5,
+   "t_soft_lower": 235.0,
+   "t_upper": 300.0
   }
  ]
 }

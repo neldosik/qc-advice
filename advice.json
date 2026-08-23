@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 19,
+ "calibration_evidence": 14,
  "category_floors": {
   "cleaning": 116.66,
   "disposal": 58.39,
@@ -72,6 +72,7 @@
   "during": 181.0,
   "elbow": 82.0,
   "electrical": 117.0,
+  "everyday": 2207.0,
   "facade": 300.0,
   "fill": 240.0,
   "filling": 51.0,
@@ -81,6 +82,7 @@
   "flat": 225.0,
   "flat-rate": 585.0,
   "floor": 229.0,
+  "forced": 235.0,
   "frame": 319.0,
   "freeing": 117.0,
   "frost-burst": 51.0,
@@ -102,6 +104,7 @@
   "insulation": 149.0,
   "internal": 51.0,
   "investigation": 412.0,
+  "jewellery": 2421.0,
   "kitchen": 155.0,
   "labor": 838.0,
   "labour": 555.0,
@@ -205,7 +208,7 @@
   "wool": 70.0,
   "worker": 621.0
  },
- "games_analyzed": 99,
+ "games_analyzed": 100,
  "median_multiplier": 1.08,
  "policies": [
   {
@@ -462,6 +465,17 @@
    "uncovered_share": 0.0
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Buildings, Contents and Forcible Removal Edition",
+   "games": [
+    66,
+    100
+   ],
+   "items_proven_covered": 5,
+   "items_proven_uncovered": 0,
+   "policy_hash": "64b909aa84",
+   "uncovered_share": 0.0
+  },
+  {
    "edition": "",
    "games": [
     12
@@ -590,16 +604,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "5db81c5ddf",
    "uncovered_share": 1.0
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Buildings, Contents and Forcible Removal Edition",
-   "games": [
-    66
-   ],
-   "items_proven_covered": 2,
-   "items_proven_uncovered": 0,
-   "policy_hash": "64b909aa84",
-   "uncovered_share": 0.0
   },
   {
    "edition": "Policy wording \"WD-2026\" - Theft, Break-in and Scheduled Articles Edition",
@@ -734,5 +738,5 @@
   "visit",
   "shipping"
  ],
- "generated_at": "2026-08-23T09:47:57.845844+00:00"
+ "generated_at": "2026-08-23T09:52:50.986125+00:00"
 }
