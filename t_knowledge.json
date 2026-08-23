@@ -12209,6 +12209,61 @@
    "t_hat": 493.06,
    "t_soft_lower": 436.12,
    "t_upper": 550.0
+  },
+  {
+   "description": "Pipe repair \u2013 replacement pipe section (standard 1 flat rate spec), sealing material and standard rock-wool insulation",
+   "game_id": 96,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "105276c69e",
+   "t_hard_lower": 106.31,
+   "t_hat": 117.03,
+   "t_soft_lower": 106.31,
+   "t_upper": 127.76
+  },
+  {
+   "description": "Installation and service-technician labour hours 1 flat rate",
+   "game_id": 96,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "105276c69e",
+   "t_hard_lower": 873.0,
+   "t_hat": 930.21,
+   "t_soft_lower": 873.0,
+   "t_upper": 987.42
+  },
+  {
+   "description": "Vehicle costs 1 flat rate",
+   "game_id": 96,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "105276c69e",
+   "t_hard_lower": 74.7,
+   "t_hat": 112.68,
+   "t_soft_lower": 74.7,
+   "t_upper": 150.65
+  },
+  {
+   "description": "Construction dryer flat-rate charge 1 flat rate",
+   "game_id": 96,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "105276c69e",
+   "t_hard_lower": 585.0,
+   "t_hat": 585.0,
+   "t_soft_lower": 585.0,
+   "t_upper": null
+  },
+  {
+   "description": "Painting the disturbed wall area and closing the wall 1 pcs opening",
+   "game_id": 96,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "105276c69e",
+   "t_hard_lower": 638.0,
+   "t_hat": 638.0,
+   "t_soft_lower": 638.0,
+   "t_upper": null
   }
  ]
 }

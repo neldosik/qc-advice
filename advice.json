@@ -1,9 +1,9 @@
 {
- "calibration_evidence": 30,
+ "calibration_evidence": 27,
  "category_floors": {
   "cleaning": 116.66,
   "disposal": 58.39,
-  "drying": 300.0,
+  "drying": 346.91,
   "electronics": 500.0,
   "flooring": 336.33,
   "inspection/report": 233.39,
@@ -13,7 +13,7 @@
   "moisture measurement": 225.0,
   "skirting": 318.75,
   "vehicle/call-out": 79.13,
-  "walls/plaster": 384.0,
+  "walls/plaster": 431.94,
   "water extraction": 116.66
  },
  "covered_words": {
@@ -66,7 +66,7 @@
   "disturbed": 638.0,
   "door": 276.0,
   "drain": 136.0,
-  "dryer": 282.0,
+  "dryer": 287.0,
   "drying": 399.0,
   "during": 181.0,
   "elbow": 82.0,
@@ -77,6 +77,7 @@
   "final": 114.0,
   "fitting": 51.0,
   "fittings": 454.0,
+  "flat": 228.0,
   "flat-rate": 585.0,
   "floor": 232.0,
   "frame": 319.0,
@@ -94,7 +95,7 @@
   "inspect": 229.0,
   "inspection": 136.0,
   "install": 823.0,
-  "installation": 432.0,
+  "installation": 460.0,
   "installer": 290.0,
   "insulation": 147.0,
   "internal": 51.0,
@@ -117,7 +118,7 @@
   "moisture": 225.0,
   "multiple": 229.0,
   "open": 102.0,
-  "opening": 595.0,
+  "opening": 638.0,
   "original": 330.0,
   "paint": 614.0,
   "painting": 638.0,
@@ -153,7 +154,7 @@
   "rooms": 225.0,
   "screen": 1125.0,
   "sealing": 22.0,
-  "section": 454.0,
+  "section": 106.0,
   "senior": 290.0,
   "service": 576.0,
   "side": 97.0,
@@ -166,7 +167,7 @@
   "speaker": 310.0,
   "specialist": 187.0,
   "stainless": 45.0,
-  "standard": 68.0,
+  "standard": 106.0,
   "steel": 45.0,
   "stolen": 2207.0,
   "supply": 379.0,
@@ -190,7 +191,7 @@
   "vacuum": 117.0,
   "valve": 100.0,
   "vehicle": 79.0,
-  "wall": 439.0,
+  "wall": 450.0,
   "washing": 136.0,
   "waste": 56.0,
   "water": 614.0,
@@ -199,8 +200,8 @@
   "wool": 51.0,
   "worker": 621.0
  },
- "games_analyzed": 95,
- "median_multiplier": 1.077,
+ "games_analyzed": 96,
+ "median_multiplier": 0.972,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -306,6 +307,19 @@
    "items_proven_uncovered": 5,
    "policy_hash": "88a3f39293",
    "uncovered_share": 0.17
+  },
+  {
+   "edition": "",
+   "games": [
+    47,
+    61,
+    89,
+    96
+   ],
+   "items_proven_covered": 36,
+   "items_proven_uncovered": 5,
+   "policy_hash": "105276c69e",
+   "uncovered_share": 0.12
   },
   {
    "edition": "Policy wording \"WD-2026\" - Water Escape, External Surfaces and Site Charges",
@@ -416,18 +430,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "4ac31c544c",
    "uncovered_share": 0.04
-  },
-  {
-   "edition": "",
-   "games": [
-    47,
-    61,
-    89
-   ],
-   "items_proven_covered": 31,
-   "items_proven_uncovered": 5,
-   "policy_hash": "105276c69e",
-   "uncovered_share": 0.14
   },
   {
    "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
@@ -716,5 +718,5 @@
   "drilling",
   "shipping"
  ],
- "generated_at": "2026-08-23T08:57:25.078892+00:00"
+ "generated_at": "2026-08-23T09:02:25.024987+00:00"
 }
