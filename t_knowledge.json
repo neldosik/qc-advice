@@ -11857,6 +11857,204 @@
    "t_hat": 854.0,
    "t_soft_lower": 638.0,
    "t_upper": 1070.0
+  },
+  {
+   "description": "Bicycle frame replacement 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 176.75,
+   "t_hat": 261.67,
+   "t_soft_lower": 176.75,
+   "t_upper": 346.59
+  },
+  {
+   "description": "Bicycle brake replacement 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 128.01,
+   "t_hat": 130.27,
+   "t_soft_lower": 128.01,
+   "t_upper": 132.54
+  },
+  {
+   "description": "Replacement AirTag tracker \u2013 \u2013",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 9.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 19.0
+  },
+  {
+   "description": "Service second household bicycle (not stolen) \u2013 \u2013",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 18.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 37.0
+  },
+  {
+   "description": "New helmet and lights \u2013 \u2013",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 14.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 29.0
+  },
+  {
+   "description": "Shipping 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 26.11,
+   "t_hat": 27.05,
+   "t_soft_lower": 26.11,
+   "t_upper": 28.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 20.0,
+   "t_hat": 24.2,
+   "t_soft_lower": 20.0,
+   "t_upper": 28.39
+  },
+  {
+   "description": "Assembly costs 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 130.64,
+   "t_hat": 130.64,
+   "t_soft_lower": 130.64,
+   "t_upper": null
+  },
+  {
+   "description": "Miscellaneous items 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 1.53,
+   "t_soft_lower": 0.0,
+   "t_upper": 3.06
+  },
+  {
+   "description": "Apprentice hours 1 hrs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 9.02,
+   "t_hat": 12.48,
+   "t_soft_lower": 9.02,
+   "t_upper": 15.95
+  },
+  {
+   "description": "Skilled worker hours 1 hrs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 21.38,
+   "t_soft_lower": 0.0,
+   "t_upper": 42.75
+  },
+  {
+   "description": "Locksmith call-out to recovery site 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 25.0,
+   "t_hat": 29.12,
+   "t_soft_lower": 25.0,
+   "t_upper": 33.25
+  },
+  {
+   "description": "Cut and remove seized lock to release bicycle 2 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 130.05,
+   "t_hat": 135.66,
+   "t_soft_lower": 130.05,
+   "t_upper": 141.26
+  },
+  {
+   "description": "Vehicle costs \u2013 return visit 1 pcs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 82.8,
+   "t_hat": 82.8,
+   "t_soft_lower": 82.8,
+   "t_upper": null
+  },
+  {
+   "description": "Impound release / storage fee paid to recover bicycle 1 \u2013",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 102.0,
+   "t_hat": 111.0,
+   "t_soft_lower": 102.0,
+   "t_upper": 120.0
+  },
+  {
+   "description": "Administrative and claim-processing fee 1 flat rate",
+   "game_id": 93,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 0.0,
+   "t_hat": 2.88,
+   "t_soft_lower": 0.0,
+   "t_upper": 5.76
+  },
+  {
+   "description": "Apprentice hours 1 hrs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 2.37,
+   "t_hat": 9.16,
+   "t_soft_lower": 2.37,
+   "t_upper": 15.95
+  },
+  {
+   "description": "Skilled worker hours 1 hrs",
+   "game_id": 93,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "88a3f39293",
+   "t_hard_lower": 9.5,
+   "t_hat": 29.25,
+   "t_soft_lower": 9.5,
+   "t_upper": 49.0
   }
  ]
 }

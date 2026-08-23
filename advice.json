@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 43,
+ "calibration_evidence": 36,
  "category_floors": {
   "cleaning": 116.66,
   "disposal": 58.16,
@@ -7,7 +7,7 @@
   "electronics": 500.0,
   "flooring": 280.5,
   "inspection/report": 233.39,
-  "installation": 378.0,
+  "installation": 336.33,
   "labour hours": 360.0,
   "leak detection": 456.0,
   "moisture measurement": 225.0,
@@ -88,7 +88,7 @@
   "helper": 352.0,
   "high-value": 400.0,
   "hose": 26.0,
-  "hours": 387.0,
+  "hours": 380.0,
   "impact": 1400.0,
   "indoor": 522.0,
   "inspect": 229.0,
@@ -108,6 +108,7 @@
   "leakage": 136.0,
   "lighting": 765.0,
   "living": 1233.0,
+  "lock": 136.0,
   "lower": 620.0,
   "machine": 136.0,
   "measurement": 218.0,
@@ -134,12 +135,12 @@
   "profipress": 82.0,
   "rate": 228.0,
   "removal": 153.0,
-  "remove": 145.0,
+  "remove": 144.0,
   "renew": 284.0,
   "rental": 58.0,
   "repair": 325.0,
   "replace": 269.0,
-  "replacement": 315.0,
+  "replacement": 300.0,
   "restoration": 2203.0,
   "restore": 570.0,
   "rewiring": 36.0,
@@ -157,7 +158,7 @@
   "side": 97.0,
   "sink": 432.0,
   "site": 100.0,
-  "skilled": 621.0,
+  "skilled": 555.0,
   "skirting": 319.0,
   "small": 36.0,
   "sound": 1451.0,
@@ -196,8 +197,8 @@
   "wool": 51.0,
   "worker": 621.0
  },
- "games_analyzed": 92,
- "median_multiplier": 1.094,
+ "games_analyzed": 93,
+ "median_multiplier": 1.077,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -292,6 +293,19 @@
    "uncovered_share": 0.3
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
+   "games": [
+    23,
+    57,
+    86,
+    93
+   ],
+   "items_proven_covered": 24,
+   "items_proven_uncovered": 5,
+   "policy_hash": "88a3f39293",
+   "uncovered_share": 0.17
+  },
+  {
    "edition": "Policy wording \"WD-2026\" - Water Escape, External Surfaces and Site Charges",
    "games": [
     49,
@@ -351,18 +365,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "e93f033322",
    "uncovered_share": 0.03
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
-   "games": [
-    23,
-    57,
-    86
-   ],
-   "items_proven_covered": 12,
-   "items_proven_uncovered": 3,
-   "policy_hash": "88a3f39293",
-   "uncovered_share": 0.2
   },
   {
    "edition": "",
@@ -699,14 +701,14 @@
  ],
  "t_knowledge_url": "/api/t_knowledge",
  "uncovered_words": [
+  "administrative",
   "catering",
   "crew",
-  "administrative",
   "claim-processing",
   "miscellaneous",
   "auxiliary",
   "items",
   "shipping"
  ],
- "generated_at": "2026-08-23T08:22:05.593870+00:00"
+ "generated_at": "2026-08-23T08:27:06.260756+00:00"
 }
