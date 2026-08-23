@@ -12121,6 +12121,94 @@
    "t_hat": 12.99,
    "t_soft_lower": 0.0,
    "t_upper": 25.99
+  },
+  {
+   "description": "Remove water-damaged laminate in living room 18 m\u00b2",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 499.58,
+   "t_hat": 976.54,
+   "t_soft_lower": 499.58,
+   "t_upper": 1453.5
+  },
+  {
+   "description": "Supply & install laminate incl. impact sound insulation 18 m\u00b2",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 1350.8,
+   "t_hat": 1350.8,
+   "t_soft_lower": 1350.8,
+   "t_upper": null
+  },
+  {
+   "description": "Replace skirting boards 25 linear m",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 650.0,
+   "t_hat": 650.0,
+   "t_soft_lower": 650.0,
+   "t_upper": null
+  },
+  {
+   "description": "Administrative and claim-processing fee 1 flat rate",
+   "game_id": 95,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 0.0,
+   "t_hat": 2.7,
+   "t_soft_lower": 0.0,
+   "t_upper": 5.4
+  },
+  {
+   "description": "Disassembly and disposal of damaged floor tiles in 6 m\u00b2 bathroom",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 336.33,
+   "t_hat": 342.65,
+   "t_soft_lower": 336.33,
+   "t_upper": 348.98
+  },
+  {
+   "description": "New installation of floor tiles in bathroom incl. material 6 m\u00b2",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 940.5,
+   "t_hat": 950.85,
+   "t_soft_lower": 940.5,
+   "t_upper": 961.2
+  },
+  {
+   "description": "Paint lower wall after water damage incl. surface 20 m\u00b2 preparation",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 618.27,
+   "t_hat": 633.1,
+   "t_soft_lower": 618.27,
+   "t_upper": 647.93
+  },
+  {
+   "description": "Full ceiling paint living room (documented moisture 15 m\u00b2 staining)",
+   "game_id": 95,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "8baba06b8c",
+   "t_hard_lower": 436.12,
+   "t_hat": 493.06,
+   "t_soft_lower": 436.12,
+   "t_upper": 550.0
   }
  ]
 }
