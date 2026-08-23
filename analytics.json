@@ -30,7 +30,7 @@
   },
   {
    "category": "installation",
-   "n": 62,
+   "n": 63,
    "proven_t_floor_max": 1933.43,
    "proven_t_floor_median": 336.33,
    "uncovered_seen": 0
@@ -86,7 +86,7 @@
   },
   {
    "category": "vehicle/call-out",
-   "n": 105,
+   "n": 106,
    "proven_t_floor_max": 836.78,
    "proven_t_floor_median": 79.13,
    "uncovered_seen": 8
@@ -114,58 +114,14 @@
    },
    {
     "category": "installation",
-    "fraud_rejected_items": 1,
-    "income": 3928.96,
-    "items": 5,
-    "n_proven_covered": 5,
-    "our_median_a": 44.12,
-    "paid": 9403.15,
-    "proven_t_floor_median": 130.64,
-    "uplift_per_game": 1071.0
-   },
-   {
-    "category": "vehicle/call-out",
     "fraud_rejected_items": 2,
-    "income": 4266.43,
-    "items": 6,
-    "n_proven_covered": 6,
-    "our_median_a": 65.35,
-    "paid": 3704.9,
-    "proven_t_floor_median": 82.8,
-    "uplift_per_game": 0.0
-   },
-   {
-    "category": "labour hours",
-    "fraud_rejected_items": 4,
-    "income": 40412.64,
-    "items": 7,
-    "n_proven_covered": 6,
-    "our_median_a": 754.19,
-    "paid": 25710.78,
-    "proven_t_floor_median": 838.0,
-    "uplift_per_game": 0.0
-   },
-   {
-    "category": "drying",
-    "fraud_rejected_items": 0,
-    "income": 21064.48,
-    "items": 3,
-    "n_proven_covered": 3,
-    "our_median_a": 526.5,
-    "paid": 10990.61,
-    "proven_t_floor_median": 585.0,
-    "uplift_per_game": 0.0
-   },
-   {
-    "category": "walls/plaster",
-    "fraud_rejected_items": 11,
-    "income": 30959.46,
-    "items": 15,
-    "n_proven_covered": 9,
-    "our_median_a": 573.98,
-    "paid": 20096.31,
-    "proven_t_floor_median": 79.2,
-    "uplift_per_game": 0.0
+    "income": 3398.56,
+    "items": 5,
+    "n_proven_covered": 4,
+    "our_median_a": 44.12,
+    "paid": 6238.32,
+    "proven_t_floor_median": 130.64,
+    "uplift_per_game": 857.0
    },
    {
     "category": "cleaning",
@@ -176,6 +132,17 @@
     "our_median_a": null,
     "paid": 0.0,
     "proven_t_floor_median": null,
+    "uplift_per_game": 0.0
+   },
+   {
+    "category": "walls/plaster",
+    "fraud_rejected_items": 9,
+    "income": 21777.22,
+    "items": 12,
+    "n_proven_covered": 8,
+    "our_median_a": 573.98,
+    "paid": 15157.42,
+    "proven_t_floor_median": 79.2,
     "uplift_per_game": 0.0
    },
    {
@@ -190,6 +157,28 @@
     "uplift_per_game": 0.0
    },
    {
+    "category": "vehicle/call-out",
+    "fraud_rejected_items": 3,
+    "income": 3746.83,
+    "items": 6,
+    "n_proven_covered": 5,
+    "our_median_a": 65.35,
+    "paid": 3276.42,
+    "proven_t_floor_median": 82.8,
+    "uplift_per_game": 0.0
+   },
+   {
+    "category": "labour hours",
+    "fraud_rejected_items": 4,
+    "income": 28346.88,
+    "items": 6,
+    "n_proven_covered": 5,
+    "our_median_a": 910.22,
+    "paid": 17963.12,
+    "proven_t_floor_median": 9.5,
+    "uplift_per_game": 0.0
+   },
+   {
     "category": "disposal",
     "fraud_rejected_items": 1,
     "income": 1280.72,
@@ -199,17 +188,28 @@
     "paid": 647.49,
     "proven_t_floor_median": 58.16,
     "uplift_per_game": 0.0
+   },
+   {
+    "category": "drying",
+    "fraud_rejected_items": 0,
+    "income": 12640.48,
+    "items": 2,
+    "n_proven_covered": 2,
+    "our_median_a": 526.5,
+    "paid": 7049.38,
+    "proven_t_floor_median": 585.0,
+    "uplift_per_game": 0.0
    }
   ],
   "opportunities": [
    {
-    "detail": "Biggest under-billed categories: flooring (our median a 472 vs proven t\u2265940, +4194/game); installation (our median a 44 vs proven t\u2265131, +1071/game)",
-    "gain_per_game": 5265.0,
+    "detail": "Biggest under-billed categories: flooring (our median a 472 vs proven t\u2265940, +4194/game); installation (our median a 44 vs proven t\u2265131, +857/game)",
+    "gain_per_game": 5051.0,
     "title": "Bill closer to the proven t floor"
    },
    {
     "detail": "Money paid for amounts provably above t. Every euro here is pure loss; b should sit at ~the 33rd percentile of the t posterior, and the posterior needs calibration.",
-    "gain_per_game": 591.0,
+    "gain_per_game": 729.0,
     "title": "Tighten b against inflated charges"
    },
    {
@@ -219,14 +219,14 @@
    }
   ],
   "totals": {
-   "income_bluff": 7518.25,
-   "income_fair_accepted": 48123.67,
-   "income_rejected_paid": 96418.09,
-   "net": 35240.1,
-   "paid_out": 116819.92
+   "income_bluff": 8657.58,
+   "income_fair_accepted": 42470.57,
+   "income_rejected_paid": 74521.91,
+   "net": 25604.52,
+   "paid_out": 100045.55
   }
  },
- "generated_at": 1787473930.9323,
+ "generated_at": 1787474231.6141453,
  "learner_heartbeats": [
   {
    "changes": [
@@ -258,103 +258,104 @@
  "opponent_drift": [
   {
    "notes": [
-    "tightened b: wrongful rejects 51.8->36.2/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 52.5->34.6/game (harder to milk penalties from)"
    ],
    "team": "eyay"
   },
   {
    "notes": [
-    "charges got safer: median a/t 0.79->0.51"
+    "tightened b: wrongful rejects 49.5->45.9/game (harder to milk penalties from)",
+    "charges got safer: median a/t 0.79->0.52"
    ],
    "team": "Alpha"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 51.1->26.1/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 51.0->25.4/game (harder to milk penalties from)"
    ],
    "team": "Trust Nobody"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 41.5->29.8/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 41.5->28.9/game (harder to milk penalties from)"
    ],
    "team": "TBD"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 40.6->37.7/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 42.2->35.6/game (harder to milk penalties from)"
    ],
    "team": "Non Deterministic"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 38.7->36.3/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 40.1->34.5/game (harder to milk penalties from)"
    ],
    "team": "Claims Renaissance"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 30.4->26.3/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 30.5->25.6/game (harder to milk penalties from)"
    ],
    "team": "error404 ai"
   },
   {
    "notes": [
-    "b got WORSE: wrongful rejects 17.2->26.3/game (bill them fair items, collect 1.5x)"
+    "b got WORSE: wrongful rejects 17.7->25.6/game (bill them fair items, collect 1.5x)"
    ],
    "team": "Nullpointer Naan"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 48.0->27.7/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 48.7->26.3/game (harder to milk penalties from)"
    ],
    "team": "AsianSuperNerds"
   },
   {
    "notes": [
-    "b got WORSE: wrongful rejects 28.2->56.5/game (bill them fair items, collect 1.5x)"
+    "b got WORSE: wrongful rejects 28.5->56.1/game (bill them fair items, collect 1.5x)"
    ],
    "team": "harissa eagles"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 39.2->27.6/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 39.4->26.7/game (harder to milk penalties from)"
    ],
    "team": "TakeTheMoneyAndRun"
   },
   {
    "notes": [
-    "b got WORSE: wrongful rejects 30.3->36.6/game (bill them fair items, collect 1.5x)"
+    "b got WORSE: wrongful rejects 31.4->34.8/game (bill them fair items, collect 1.5x)"
    ],
    "team": "Teamers"
   },
   {
    "notes": [
-    "b got WORSE: wrongful rejects 26.8->31.9/game (bill them fair items, collect 1.5x)"
+    "b got WORSE: wrongful rejects 27.0->31.3/game (bill them fair items, collect 1.5x)"
    ],
    "team": "Oasis"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 76.1->67.8/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 77.9->65.0/game (harder to milk penalties from)"
    ],
    "team": "makalu"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 27.1->21.5/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 27.6->20.6/game (harder to milk penalties from)"
    ],
    "team": "Codacabana"
   },
   {
    "notes": [
-    "tightened b: wrongful rejects 42.7->34.9/game (harder to milk penalties from)"
+    "tightened b: wrongful rejects 43.2->33.7/game (harder to milk penalties from)"
    ],
    "team": "Bin busy"
   },
   {
    "notes": [
-    "b got WORSE: wrongful rejects 30.2->42.5/game (bill them fair items, collect 1.5x)"
+    "b got WORSE: wrongful rejects 31.3->41.3/game (bill them fair items, collect 1.5x)"
    ],
    "team": "OPUSMOPUS"
   }
@@ -363,50 +364,50 @@
   {
    "avg_charge_vs_t": 0.91,
    "last_games_net": [
-    39380.0,
     62087.0,
-    7733.0
+    7733.0,
+    3928.0
    ],
    "max_accepted": 12000.0,
-   "n_above_t": 433,
-   "n_bills_revealed": 898,
-   "n_caught_hidden": 143,
-   "n_fair": 465,
-   "net_total": 728623.9474999998,
+   "n_above_t": 436,
+   "n_bills_revealed": 903,
+   "n_caught_hidden": 144,
+   "n_fair": 467,
+   "net_total": 732552.1174999998,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Codacabana",
-   "wrongful_rejects": 2259
+   "wrongful_rejects": 2267
   },
   {
    "avg_charge_vs_t": 0.72,
    "last_games_net": [
-    8132.0,
     44257.0,
-    585.0
+    585.0,
+    1897.0
    ],
    "max_accepted": 8909.96,
-   "n_above_t": 408,
-   "n_bills_revealed": 910,
+   "n_above_t": 412,
+   "n_bills_revealed": 916,
    "n_caught_hidden": 97,
-   "n_fair": 502,
-   "net_total": 582008.0524999996,
+   "n_fair": 504,
+   "net_total": 583904.9524999997,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "eyay",
-   "wrongful_rejects": 4082
+   "wrongful_rejects": 4095
   },
   {
    "avg_charge_vs_t": 0.83,
    "last_games_net": [
-    9267.0,
     -389.0,
-    13699.0
+    13699.0,
+    1842.0
    ],
    "max_accepted": 4493.17,
-   "n_above_t": 440,
-   "n_bills_revealed": 919,
+   "n_above_t": 444,
+   "n_bills_revealed": 925,
    "n_caught_hidden": 153,
-   "n_fair": 479,
-   "net_total": 457991.0874999996,
+   "n_fair": 481,
+   "net_total": 459832.7874999996,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "error404 ai",
    "wrongful_rejects": 2636
@@ -414,246 +415,246 @@
   {
    "avg_charge_vs_t": 0.71,
    "last_games_net": [
-    14775.0,
     32012.0,
-    2525.0
+    2525.0,
+    311.0
    ],
    "max_accepted": 8626.5,
-   "n_above_t": 336,
-   "n_bills_revealed": 874,
-   "n_caught_hidden": 116,
-   "n_fair": 538,
-   "net_total": 354013.2675000002,
+   "n_above_t": 339,
+   "n_bills_revealed": 879,
+   "n_caught_hidden": 117,
+   "n_fair": 540,
+   "net_total": 354323.7825000002,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "TakeTheMoneyAndRun",
-   "wrongful_rejects": 3098
+   "wrongful_rejects": 3108
   },
   {
    "avg_charge_vs_t": 0.82,
    "last_games_net": [
-    3313.0,
     -11822.0,
-    11159.0
+    11159.0,
+    7775.0
    ],
    "max_accepted": 4500.0,
-   "n_above_t": 395,
-   "n_bills_revealed": 823,
-   "n_caught_hidden": 225,
-   "n_fair": 428,
-   "net_total": 223522.89000000013,
+   "n_above_t": 398,
+   "n_bills_revealed": 828,
+   "n_caught_hidden": 226,
+   "n_fair": 430,
+   "net_total": 231297.82500000013,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Bin busy",
-   "wrongful_rejects": 3601
+   "wrongful_rejects": 3616
   },
   {
    "avg_charge_vs_t": 0.76,
    "last_games_net": [
-    -2496.0,
     25796.0,
-    5470.0
+    5470.0,
+    3560.0
    ],
    "max_accepted": 11973.17,
-   "n_above_t": 365,
-   "n_bills_revealed": 871,
+   "n_above_t": 369,
+   "n_bills_revealed": 877,
    "n_caught_hidden": 136,
-   "n_fair": 506,
-   "net_total": 88173.57000000008,
+   "n_fair": 508,
+   "net_total": 91733.61000000009,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Non Deterministic",
-   "wrongful_rejects": 3638
+   "wrongful_rejects": 3655
   },
   {
    "avg_charge_vs_t": 0.85,
    "last_games_net": [
-    7907.0,
     -14109.0,
-    -10726.0
+    -10726.0,
+    -2210.0
    ],
    "max_accepted": 7478.0,
-   "n_above_t": 375,
-   "n_bills_revealed": 797,
+   "n_above_t": 380,
+   "n_bills_revealed": 803,
    "n_caught_hidden": 183,
-   "n_fair": 422,
-   "net_total": -178266.265,
+   "n_fair": 423,
+   "net_total": -180475.90000000002,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "AsianSuperNerds",
-   "wrongful_rejects": 3512
+   "wrongful_rejects": 3528
   },
   {
    "avg_charge_vs_t": 0.86,
    "last_games_net": [
-    21808.0,
     29659.0,
-    10989.0
+    10989.0,
+    4707.0
    ],
    "max_accepted": 3610.0,
-   "n_above_t": 385,
-   "n_bills_revealed": 815,
-   "n_caught_hidden": 246,
-   "n_fair": 430,
-   "net_total": -194020.2249999999,
+   "n_above_t": 388,
+   "n_bills_revealed": 819,
+   "n_caught_hidden": 248,
+   "n_fair": 431,
+   "net_total": -189313.1949999999,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Teamers",
-   "wrongful_rejects": 3112
+   "wrongful_rejects": 3113
   },
   {
    "avg_charge_vs_t": 0.78,
    "last_games_net": [
-    7142.0,
     46477.0,
-    3144.0
+    3144.0,
+    -3296.0
    ],
    "max_accepted": 5508.34,
-   "n_above_t": 324,
-   "n_bills_revealed": 755,
-   "n_caught_hidden": 187,
-   "n_fair": 431,
-   "net_total": -647734.9224999998,
+   "n_above_t": 328,
+   "n_bills_revealed": 760,
+   "n_caught_hidden": 188,
+   "n_fair": 432,
+   "net_total": -651030.4674999998,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Oasis",
-   "wrongful_rejects": 2733
+   "wrongful_rejects": 2738
   },
   {
    "avg_charge_vs_t": 0.66,
    "last_games_net": [
-    -25958.0,
     -46525.0,
-    -12345.0
+    -12345.0,
+    -4846.0
    ],
    "max_accepted": 12000.0,
    "n_above_t": 216,
-   "n_bills_revealed": 654,
+   "n_bills_revealed": 656,
    "n_caught_hidden": 15,
-   "n_fair": 438,
-   "net_total": -1052071.8949999996,
+   "n_fair": 440,
+   "net_total": -1056918.2749999994,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Claims Renaissance",
-   "wrongful_rejects": 3486
+   "wrongful_rejects": 3503
   },
   {
    "avg_charge_vs_t": 0.65,
    "last_games_net": [
-    -32873.0,
     -40961.0,
-    -3288.0
+    -3288.0,
+    140.0
    ],
    "max_accepted": 5485.0,
-   "n_above_t": 287,
-   "n_bills_revealed": 692,
+   "n_above_t": 288,
+   "n_bills_revealed": 695,
    "n_caught_hidden": 84,
-   "n_fair": 405,
-   "net_total": -1376047.0699999998,
+   "n_fair": 407,
+   "net_total": -1375906.94,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Alpha",
-   "wrongful_rejects": 4471
+   "wrongful_rejects": 4483
   },
   {
    "avg_charge_vs_t": 0.78,
    "last_games_net": [
-    -78141.0,
     -102935.0,
-    -26697.0
+    -26697.0,
+    -18663.0
    ],
    "max_accepted": 6120.0,
    "n_above_t": 203,
    "n_bills_revealed": 506,
    "n_caught_hidden": 39,
    "n_fair": 303,
-   "net_total": -1380873.7225,
+   "net_total": -1399536.6175,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "OPUSMOPUS",
-   "wrongful_rejects": 3384
-  },
-  {
-   "avg_charge_vs_t": 0.82,
-   "last_games_net": [
-    -41166.0,
-    -40066.0,
-    -318.0
-   ],
-   "max_accepted": 11130.9,
-   "n_above_t": 290,
-   "n_bills_revealed": 639,
-   "n_caught_hidden": 95,
-   "n_fair": 349,
-   "net_total": -1440751.825,
-   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
-   "team": "Nullpointer Naan",
-   "wrongful_rejects": 2027
+   "wrongful_rejects": 3408
   },
   {
    "avg_charge_vs_t": 0.84,
    "last_games_net": [
-    -5908.0,
     -25136.0,
-    -13155.0
+    -13155.0,
+    3670.0
    ],
    "max_accepted": 12000.0,
-   "n_above_t": 309,
-   "n_bills_revealed": 616,
-   "n_caught_hidden": 137,
-   "n_fair": 307,
-   "net_total": -1449917.0599999998,
+   "n_above_t": 313,
+   "n_bills_revealed": 621,
+   "n_caught_hidden": 138,
+   "n_fair": 308,
+   "net_total": -1446247.3099999998,
    "strategy_label": "sharp pricer (bills near t); fraud-prone: reject their bills aggressively; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "TBD",
    "wrongful_rejects": 3308
   },
   {
+   "avg_charge_vs_t": 0.82,
+   "last_games_net": [
+    -40066.0,
+    -318.0,
+    -8465.0
+   ],
+   "max_accepted": 11130.9,
+   "n_above_t": 294,
+   "n_bills_revealed": 645,
+   "n_caught_hidden": 95,
+   "n_fair": 351,
+   "net_total": -1449216.895,
+   "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
+   "team": "Nullpointer Naan",
+   "wrongful_rejects": 2034
+  },
+  {
    "avg_charge_vs_t": 0.63,
    "last_games_net": [
-    -5949.0,
     -76537.0,
-    -5143.0
+    -5143.0,
+    -14104.0
    ],
    "max_accepted": 10349.89,
-   "n_above_t": 278,
-   "n_bills_revealed": 654,
-   "n_caught_hidden": 102,
-   "n_fair": 376,
-   "net_total": -1683370.2349999994,
+   "n_above_t": 281,
+   "n_bills_revealed": 659,
+   "n_caught_hidden": 103,
+   "n_fair": 378,
+   "net_total": -1697474.6749999993,
    "strategy_label": "moderate biller; paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "Trust Nobody",
-   "wrongful_rejects": 3578
+   "wrongful_rejects": 3591
   },
   {
    "avg_charge_vs_t": 0.8,
    "last_games_net": [
-    -78141.0,
     -102935.0,
-    -26697.0
+    -26697.0,
+    -18663.0
    ],
    "max_accepted": 7125.0,
    "n_above_t": 212,
    "n_bills_revealed": 523,
    "n_caught_hidden": 45,
    "n_fair": 311,
-   "net_total": -1757836.2975000003,
+   "net_total": -1776499.1925000004,
    "strategy_label": "sharp pricer (bills near t); paranoid reviewer (b too low): our fair bills still get paid +50% penalty",
    "team": "harissa eagles",
-   "wrongful_rejects": 3952
+   "wrongful_rejects": 3976
   },
   {
    "avg_charge_vs_t": null,
    "last_games_net": [
-    -78141.0,
     -102935.0,
-    -26697.0
+    -26697.0,
+    -18663.0
    ],
    "max_accepted": 0.0,
    "n_above_t": 0,
    "n_bills_revealed": 0,
    "n_caught_hidden": 0,
    "n_fair": 0,
-   "net_total": -3547434.569999999,
+   "net_total": -3566097.464999999,
    "strategy_label": "GHOST: never bills; if they also reject all, every fair bill of ours earns 1.5x from them",
    "team": "makalu",
-   "wrongful_rejects": 6690
+   "wrongful_rejects": 6714
   }
  ],
  "our_last3_leaks": {
-  "fraud_overpaid": 2956.45,
-  "missed_income_estimate": 21937.44,
-  "penalties_extra": 4024.89
+  "fraud_overpaid": 2602.6,
+  "missed_income_estimate": 13846.88,
+  "penalties_extra": 2462.58
  },
  "per_game": [
   {
@@ -2236,6 +2237,23 @@
     "our_income_total": 11576.51,
     "our_paid_total": 7913.41
    }
+  },
+  {
+   "game_id": 94,
+   "leaks": {
+    "fraud_overpaid": 689.26,
+    "missed_income_estimate": 0.0,
+    "penalties_extra": 152.5
+   },
+   "net": 1569.01,
+   "stats": {
+    "avg_charge_vs_t_hat": 1.07,
+    "bills_paid_rate": 0.3,
+    "items_total": 6,
+    "items_we_billed": 4,
+    "our_income_total": 6239.33,
+    "our_paid_total": 4670.32
+   }
   }
  ],
  "policies": [
@@ -2454,6 +2472,18 @@
    "uncovered_share": 0.14
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
+   "games": [
+    58,
+    79,
+    94
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 4,
+   "policy_hash": "0a64251a67",
+   "uncovered_share": 0.57
+  },
+  {
    "edition": "",
    "games": [
     59,
@@ -2475,17 +2505,6 @@
    "items_proven_uncovered": 0,
    "policy_hash": "559a274967",
    "uncovered_share": 0.0
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
-   "games": [
-    58,
-    79
-   ],
-   "items_proven_covered": 1,
-   "items_proven_uncovered": 3,
-   "policy_hash": "0a64251a67",
-   "uncovered_share": 0.75
   },
   {
    "edition": "",
@@ -2740,71 +2759,71 @@
  ],
  "standings": [
   {
-   "net": 728623.9474999998,
+   "net": 732552.1174999998,
    "team": "Codacabana"
   },
   {
-   "net": 582008.0524999996,
+   "net": 583904.9524999997,
    "team": "eyay"
   },
   {
-   "net": 457991.0874999996,
+   "net": 459832.7874999996,
    "team": "error404 ai"
   },
   {
-   "net": 354013.2675000002,
+   "net": 354323.7825000002,
    "team": "TakeTheMoneyAndRun"
   },
   {
-   "net": 223522.89000000013,
+   "net": 231297.82500000013,
    "team": "Bin busy"
   },
   {
-   "net": 88173.57000000008,
+   "net": 91733.61000000009,
    "team": "Non Deterministic"
   },
   {
-   "net": -178266.265,
+   "net": -180475.90000000002,
    "team": "AsianSuperNerds"
   },
   {
-   "net": -194020.2249999999,
+   "net": -189313.1949999999,
    "team": "Teamers"
   },
   {
-   "net": -647734.9224999998,
+   "net": -651030.4674999998,
    "team": "Oasis"
   },
   {
-   "net": -1052071.8949999996,
+   "net": -1056918.2749999994,
    "team": "Claims Renaissance"
   },
   {
-   "net": -1376047.0699999998,
+   "net": -1375906.94,
    "team": "Alpha"
   },
   {
-   "net": -1380873.7225,
+   "net": -1399536.6175,
    "team": "OPUSMOPUS"
   },
   {
-   "net": -1440751.825,
-   "team": "Nullpointer Naan"
-  },
-  {
-   "net": -1449917.0599999998,
+   "net": -1446247.3099999998,
    "team": "TBD"
   },
   {
-   "net": -1683370.2349999994,
+   "net": -1449216.895,
+   "team": "Nullpointer Naan"
+  },
+  {
+   "net": -1697474.6749999993,
    "team": "Trust Nobody"
   },
   {
-   "net": -1757836.2975000003,
+   "net": -1776499.1925000004,
    "team": "harissa eagles"
   },
   {
-   "net": -3547434.569999999,
+   "net": -3566097.464999999,
    "team": "makalu"
   }
  ],
@@ -2853,15 +2872,27 @@
    "word": "items"
   },
   {
+   "n": 4,
+   "typical_t_floor": 15.0,
+   "uncovered_rate": 0.75,
+   "word": "hole"
+  },
+  {
+   "n": 4,
+   "typical_t_floor": 15.0,
+   "uncovered_rate": 0.75,
+   "word": "drilling"
+  },
+  {
    "n": 14,
    "typical_t_floor": 26.0,
    "uncovered_rate": 0.71,
    "word": "shipping"
   },
   {
-   "n": 130,
+   "n": 132,
    "typical_t_floor": 228.0,
-   "uncovered_rate": 0.15,
+   "uncovered_rate": 0.14,
    "word": "flat"
   },
   {
@@ -2883,16 +2914,16 @@
    "word": "profipress"
   },
   {
-   "n": 127,
-   "typical_t_floor": 228.0,
-   "uncovered_rate": 0.13,
-   "word": "rate"
-  },
-  {
    "n": 84,
    "typical_t_floor": 79.0,
    "uncovered_rate": 0.13,
    "word": "costs"
+  },
+  {
+   "n": 129,
+   "typical_t_floor": 228.0,
+   "uncovered_rate": 0.12,
+   "word": "rate"
   },
   {
    "n": 17,
@@ -2991,6 +3022,12 @@
    "word": "pipe"
   },
   {
+   "n": 22,
+   "typical_t_floor": 319.0,
+   "uncovered_rate": 0.05,
+   "word": "repair"
+  },
+  {
    "n": 21,
    "typical_t_floor": 58.0,
    "uncovered_rate": 0.05,
@@ -3001,12 +3038,6 @@
    "typical_t_floor": 576.0,
    "uncovered_rate": 0.05,
    "word": "service"
-  },
-  {
-   "n": 20,
-   "typical_t_floor": 325.0,
-   "uncovered_rate": 0.05,
-   "word": "repair"
   },
   {
    "n": 40,
@@ -3687,6 +3718,12 @@
    "word": "rewiring"
   },
   {
+   "n": 5,
+   "typical_t_floor": 276.0,
+   "uncovered_rate": 0.0,
+   "word": "door"
+  },
+  {
    "n": 4,
    "typical_t_floor": 472.0,
    "uncovered_rate": 0.0,
@@ -3715,6 +3752,12 @@
    "typical_t_floor": 454.0,
    "uncovered_rate": 0.0,
    "word": "section"
+  },
+  {
+   "n": 4,
+   "typical_t_floor": 150.0,
+   "uncovered_rate": 0.0,
+   "word": "wooden"
   },
   {
    "n": 4,
@@ -3880,6 +3923,12 @@
   },
   {
    "n": 4,
+   "typical_t_floor": 319.0,
+   "uncovered_rate": 0.0,
+   "word": "frame"
+  },
+  {
+   "n": 4,
    "typical_t_floor": 699.0,
    "uncovered_rate": 0.0,
    "word": "dispose"
@@ -3925,12 +3974,6 @@
    "typical_t_floor": 300.0,
    "uncovered_rate": 0.0,
    "word": "facade"
-  },
-  {
-   "n": 4,
-   "typical_t_floor": 276.0,
-   "uncovered_rate": 0.0,
-   "word": "door"
   }
  ]
 }

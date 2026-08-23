@@ -12055,6 +12055,72 @@
    "t_hat": 29.25,
    "t_soft_lower": 9.5,
    "t_upper": 49.0
+  },
+  {
+   "description": "Hole drilling 1 pcs",
+   "game_id": 94,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 4.32,
+   "t_soft_lower": 0.0,
+   "t_upper": 8.64
+  },
+  {
+   "description": "Installation of the new glass into the frame 1 pcs",
+   "game_id": 94,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 15.68,
+   "t_soft_lower": 0.0,
+   "t_upper": 31.35
+  },
+  {
+   "description": "Made-to-measure replacement glass pane 1 pcs",
+   "game_id": 94,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 10.35,
+   "t_soft_lower": 0.0,
+   "t_upper": 20.7
+  },
+  {
+   "description": "Repair of dented and gouged solid-wood door frame 1 flat rate",
+   "game_id": 94,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 318.75,
+   "t_hat": 318.75,
+   "t_soft_lower": 318.75,
+   "t_upper": null
+  },
+  {
+   "description": "Repair and refinish of scratched and chipped wooden 1 flat rate shelf",
+   "game_id": 94,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 171.63,
+   "t_hat": 175.81,
+   "t_soft_lower": 171.63,
+   "t_upper": 180.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 94,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 12.99,
+   "t_soft_lower": 0.0,
+   "t_upper": 25.99
   }
  ]
 }

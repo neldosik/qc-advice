@@ -48,6 +48,7 @@
   "disassemble": 123.0,
   "disassembly": 280.0,
   "disposal": 58.0,
+  "door": 276.0,
   "dryer": 282.0,
   "drying": 399.0,
   "during": 181.0,
@@ -100,7 +101,7 @@
   "removal": 153.0,
   "remove": 144.0,
   "renew": 284.0,
-  "repair": 325.0,
+  "repair": 319.0,
   "replace": 269.0,
   "replacement": 300.0,
   "restore": 570.0,
@@ -154,7 +155,7 @@
   "items",
   "miscellaneous"
  ],
- "games_learned_from": 93,
+ "games_learned_from": 94,
  "global_multiplier": 1.128,
- "updated_at": "2026-08-23T08:24:17.902126+00:00"
+ "updated_at": "2026-08-23T08:36:20.455313+00:00"
 }

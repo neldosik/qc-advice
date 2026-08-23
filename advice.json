@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 36,
+ "calibration_evidence": 29,
  "category_floors": {
   "cleaning": 116.66,
   "disposal": 58.16,
@@ -80,6 +80,7 @@
   "flat": 228.0,
   "flat-rate": 585.0,
   "floor": 229.0,
+  "frame": 319.0,
   "frost-burst": 51.0,
   "further": 142.0,
   "glass": 87.0,
@@ -138,7 +139,7 @@
   "remove": 144.0,
   "renew": 284.0,
   "rental": 58.0,
-  "repair": 325.0,
+  "repair": 319.0,
   "replace": 269.0,
   "replacement": 300.0,
   "restoration": 2203.0,
@@ -194,10 +195,11 @@
   "waste": 56.0,
   "water": 384.0,
   "water-damaged": 150.0,
+  "wooden": 150.0,
   "wool": 51.0,
   "worker": 621.0
  },
- "games_analyzed": 93,
+ "games_analyzed": 94,
  "median_multiplier": 1.077,
  "policies": [
   {
@@ -415,6 +417,18 @@
    "uncovered_share": 0.14
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
+   "games": [
+    58,
+    79,
+    94
+   ],
+   "items_proven_covered": 3,
+   "items_proven_uncovered": 4,
+   "policy_hash": "0a64251a67",
+   "uncovered_share": 0.57
+  },
+  {
    "edition": "",
    "games": [
     59,
@@ -436,17 +450,6 @@
    "items_proven_uncovered": 0,
    "policy_hash": "559a274967",
    "uncovered_share": 0.0
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
-   "games": [
-    58,
-    79
-   ],
-   "items_proven_covered": 1,
-   "items_proven_uncovered": 3,
-   "policy_hash": "0a64251a67",
-   "uncovered_share": 0.75
   },
   {
    "edition": "",
@@ -708,7 +711,9 @@
   "miscellaneous",
   "auxiliary",
   "items",
+  "hole",
+  "drilling",
   "shipping"
  ],
- "generated_at": "2026-08-23T08:32:10.641103+00:00"
+ "generated_at": "2026-08-23T08:37:11.291955+00:00"
 }
