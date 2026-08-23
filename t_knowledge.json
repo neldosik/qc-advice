@@ -11758,6 +11758,105 @@
    "t_hat": 60.95,
    "t_soft_lower": 58.16,
    "t_upper": 63.75
+  },
+  {
+   "description": "Vehicle costs 1 flat rate",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 82.8,
+   "t_hat": 116.72,
+   "t_soft_lower": 82.8,
+   "t_upper": 150.65
+  },
+  {
+   "description": "Sealing material 1 pcs",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 21.65,
+   "t_hat": 68.33,
+   "t_soft_lower": 21.65,
+   "t_upper": 115.0
+  },
+  {
+   "description": "Premium large-diameter stainless steel pipe (upgraded 1 m from the original narrower-bore installation)",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 63.35,
+   "t_hat": 63.35,
+   "t_soft_lower": 63.35,
+   "t_upper": null
+  },
+  {
+   "description": "Designer gunmetal fittings (higher specification than 2 pcs the original)",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 107.1,
+   "t_hat": 107.1,
+   "t_soft_lower": 107.1,
+   "t_upper": null
+  },
+  {
+   "description": "Premium aluminium-clad insulation (upgraded from 1 m standard rock wool)",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 32.99,
+   "t_hat": 32.99,
+   "t_soft_lower": 32.99,
+   "t_upper": null
+  },
+  {
+   "description": "Installation 1 m",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 410.06,
+   "t_hat": 615.03,
+   "t_soft_lower": 410.06,
+   "t_upper": 820.0
+  },
+  {
+   "description": "Service technician hours 9 labor units",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 838.0,
+   "t_hat": 1969.0,
+   "t_soft_lower": 838.0,
+   "t_upper": 3100.0
+  },
+  {
+   "description": "Construction dryer flat-rate charge 1 flat rate",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 585.0,
+   "t_hat": 585.0,
+   "t_soft_lower": 585.0,
+   "t_upper": null
+  },
+  {
+   "description": "Painting the disturbed wall area and closing the wall 1 pcs opening",
+   "game_id": 92,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0cac0141ae",
+   "t_hard_lower": 638.0,
+   "t_hat": 854.0,
+   "t_soft_lower": 638.0,
+   "t_upper": 1070.0
   }
  ]
 }
