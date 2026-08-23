@@ -1,8 +1,8 @@
 {
- "calibration_evidence": 27,
+ "calibration_evidence": 18,
  "category_floors": {
   "cleaning": 116.66,
-  "disposal": 58.39,
+  "disposal": 58.16,
   "drying": 346.91,
   "electronics": 500.0,
   "flooring": 336.33,
@@ -37,6 +37,7 @@
   "cause": 412.0,
   "ceiling": 339.0,
   "channel": 97.0,
+  "chrome-plated": 214.0,
   "cistern": 112.0,
   "clean": 225.0,
   "cleaner": 114.0,
@@ -50,14 +51,14 @@
   "connection": 135.0,
   "conservatory": 616.0,
   "construction": 58.0,
-  "consumables": 177.0,
+  "consumables": 48.0,
   "copper": 96.0,
   "costs": 79.0,
   "covering": 150.0,
   "damage": 612.0,
   "damaged": 230.0,
   "days": 282.0,
-  "designer": 489.0,
+  "designer": 360.0,
   "detection": 471.0,
   "disassemble": 123.0,
   "disassembly": 336.0,
@@ -77,7 +78,6 @@
   "final": 114.0,
   "fitting": 51.0,
   "fittings": 454.0,
-  "flat": 228.0,
   "flat-rate": 585.0,
   "floor": 232.0,
   "frame": 319.0,
@@ -89,7 +89,7 @@
   "helper": 352.0,
   "high-value": 400.0,
   "hose": 26.0,
-  "hours": 380.0,
+  "hours": 381.0,
   "impact": 1400.0,
   "indoor": 522.0,
   "inspect": 229.0,
@@ -124,6 +124,7 @@
   "painting": 638.0,
   "pane": 87.0,
   "parquet": 158.0,
+  "parts": 48.0,
   "path": 240.0,
   "piece": 68.0,
   "pipe": 72.0,
@@ -132,7 +133,7 @@
   "plaster": 72.0,
   "plasterboard": 560.0,
   "pool": 475.0,
-  "premium": 489.0,
+  "premium": 360.0,
   "preparation": 614.0,
   "profipress": 82.0,
   "rate": 228.0,
@@ -148,7 +149,7 @@
   "rewiring": 36.0,
   "robbery": 3000.0,
   "robot": 114.0,
-  "rock": 33.0,
+  "rock": 35.0,
   "roof": 87.0,
   "room": 438.0,
   "rooms": 225.0,
@@ -156,13 +157,13 @@
   "sealing": 22.0,
   "section": 106.0,
   "senior": 290.0,
-  "service": 576.0,
+  "service": 593.0,
   "side": 97.0,
   "sink": 432.0,
   "site": 100.0,
   "skilled": 555.0,
   "skirting": 319.0,
-  "small": 36.0,
+  "small": 46.0,
   "sound": 1380.0,
   "speaker": 310.0,
   "specialist": 187.0,
@@ -178,7 +179,7 @@
   "systems": 269.0,
   "table": 330.0,
   "taken": 7225.0,
-  "technician": 635.0,
+  "technician": 629.0,
   "than": 500.0,
   "tiles": 489.0,
   "toilet": 112.0,
@@ -186,22 +187,22 @@
   "transport": 147.0,
   "unit": 464.0,
   "units": 838.0,
-  "upgrade": 489.0,
+  "upgrade": 379.0,
   "utility": 108.0,
   "vacuum": 117.0,
   "valve": 100.0,
   "vehicle": 79.0,
   "wall": 450.0,
   "washing": 136.0,
-  "waste": 56.0,
+  "waste": 57.0,
   "water": 614.0,
   "water-damaged": 150.0,
   "wooden": 150.0,
-  "wool": 51.0,
+  "wool": 70.0,
   "worker": 621.0
  },
- "games_analyzed": 96,
- "median_multiplier": 0.972,
+ "games_analyzed": 97,
+ "median_multiplier": 0.964,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -281,6 +282,19 @@
    "items_proven_uncovered": 8,
    "policy_hash": "4fa9117fc8",
    "uncovered_share": 0.53
+  },
+  {
+   "edition": "",
+   "games": [
+    13,
+    34,
+    87,
+    97
+   ],
+   "items_proven_covered": 52,
+   "items_proven_uncovered": 5,
+   "policy_hash": "ad985041b1",
+   "uncovered_share": 0.09
   },
   {
    "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
@@ -370,18 +384,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "63344e651d",
    "uncovered_share": 0.03
-  },
-  {
-   "edition": "",
-   "games": [
-    13,
-    34,
-    87
-   ],
-   "items_proven_covered": 38,
-   "items_proven_uncovered": 4,
-   "policy_hash": "ad985041b1",
-   "uncovered_share": 0.1
   },
   {
    "edition": "",
@@ -718,5 +720,5 @@
   "drilling",
   "shipping"
  ],
- "generated_at": "2026-08-23T09:12:35.134941+00:00"
+ "generated_at": "2026-08-23T09:17:34.782317+00:00"
 }

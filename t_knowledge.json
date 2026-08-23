@@ -12264,6 +12264,193 @@
    "t_hat": 638.0,
    "t_soft_lower": 638.0,
    "t_upper": null
+  },
+  {
+   "description": "Premium chrome-plated designer copper pipe 15mm 6.4 m (upgrade from plain copper)",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 248.4,
+   "t_hat": 248.4,
+   "t_soft_lower": 248.4,
+   "t_upper": null
+  },
+  {
+   "description": "Premium chrome-plated Profipress elbow 90\u00b0 15mm 4 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 94.0,
+   "t_hat": 94.0,
+   "t_soft_lower": 94.0,
+   "t_upper": null
+  },
+  {
+   "description": "Premium chrome-plated Profipress elbow 90\u00b0 28mm 5 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 214.2,
+   "t_hat": 214.2,
+   "t_soft_lower": 214.2,
+   "t_upper": null
+  },
+  {
+   "description": "Premium chrome-plated Profipress elbow 45\u00b0 28mm 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 26.78,
+   "t_hat": 45.89,
+   "t_soft_lower": 26.78,
+   "t_upper": 65.0
+  },
+  {
+   "description": "Grub screw 8 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 9.11,
+   "t_hat": 9.55,
+   "t_soft_lower": 9.11,
+   "t_upper": 10.0
+  },
+  {
+   "description": "Two-screw pipe clamp 10 mm 4 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 19.0,
+   "t_hat": 21.09,
+   "t_soft_lower": 19.0,
+   "t_upper": 23.17
+  },
+  {
+   "description": "Two-screw pipe clamp 25 mm 4 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 21.93,
+   "t_hat": 24.79,
+   "t_soft_lower": 21.93,
+   "t_upper": 27.64
+  },
+  {
+   "description": "Service technician hours 6.75 hrs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 629.0,
+   "t_hat": 742.61,
+   "t_soft_lower": 629.0,
+   "t_upper": 856.21
+  },
+  {
+   "description": "Helper hours 5.75 hrs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 380.88,
+   "t_hat": 380.88,
+   "t_soft_lower": 380.88,
+   "t_upper": null
+  },
+  {
+   "description": "High-performance aluminium-clad Armaflex insulation 6 pcs shell (upgrade from rock wool)",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 171.0,
+   "t_hat": 171.0,
+   "t_soft_lower": 171.0,
+   "t_upper": null
+  },
+  {
+   "description": "Binding wire 2 kg",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 28.49,
+   "t_hat": 36.24,
+   "t_soft_lower": 28.49,
+   "t_upper": 44.0
+  },
+  {
+   "description": "Smart leak-detection sensor with app connectivity 1 pcs (new addition)",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 0.0,
+   "t_hat": 32.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 65.0
+  },
+  {
+   "description": "Thermostatic mixing valve (new addition) 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 0.0,
+   "t_hat": 20.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 41.0
+  },
+  {
+   "description": "Small parts and consumables 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 45.74,
+   "t_hat": 48.17,
+   "t_soft_lower": 45.74,
+   "t_upper": 50.59
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 82.8,
+   "t_hat": 116.72,
+   "t_soft_lower": 82.8,
+   "t_upper": 150.65
+  },
+  {
+   "description": "Construction waste disposal 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 57.86,
+   "t_hat": 58.88,
+   "t_soft_lower": 57.86,
+   "t_upper": 59.89
+  },
+  {
+   "description": "Processing flat fee 1 pcs",
+   "game_id": 97,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "ad985041b1",
+   "t_hard_lower": 0.0,
+   "t_hat": 2.7,
+   "t_soft_lower": 0.0,
+   "t_upper": 5.4
   }
  ]
 }
