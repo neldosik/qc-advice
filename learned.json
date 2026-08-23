@@ -1,4 +1,6 @@
 {
+ "global_multiplier": 1.019,
+ "charge_quantile": 0.35,
  "accept_quantile": 0.45,
  "category_targets": {
   "cleaning": 116.66,
@@ -16,7 +18,14 @@
   "walls/plaster": 431.94,
   "water extraction": 116.66
  },
- "charge_quantile": 0.35,
+ "exclusion_words": [
+  "administrative",
+  "catering",
+  "claim-processing",
+  "crew",
+  "items",
+  "miscellaneous"
+ ],
  "covered_words": {
   "affected": 115.0,
   "area": 378.0,
@@ -157,15 +166,6 @@
   "wool": 70.0,
   "worker": 621.0
  },
- "exclusion_words": [
-  "administrative",
-  "catering",
-  "claim-processing",
-  "crew",
-  "items",
-  "miscellaneous"
- ],
- "games_learned_from": 97,
- "global_multiplier": 1.019,
- "updated_at": "2026-08-23T09:16:31.072543+00:00"
+ "games_learned_from": 98,
+ "updated_at": "2026-08-23T09:26:32.965522+00:00"
 }

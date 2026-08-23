@@ -12451,6 +12451,50 @@
    "t_hat": 2.7,
    "t_soft_lower": 0.0,
    "t_upper": 5.4
+  },
+  {
+   "description": "Hole drilling 1 pcs",
+   "game_id": 98,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 72.67,
+   "t_hat": 72.67,
+   "t_soft_lower": 72.67,
+   "t_upper": null
+  },
+  {
+   "description": "Installation of the new glass into the frame 1 pcs",
+   "game_id": 98,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 14.85,
+   "t_soft_lower": 0.0,
+   "t_upper": 29.7
+  },
+  {
+   "description": "Made-to-measure replacement glass pane 1 pcs",
+   "game_id": 98,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 23.82,
+   "t_soft_lower": 0.0,
+   "t_upper": 47.63
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 98,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "0a64251a67",
+   "t_hard_lower": 0.0,
+   "t_hat": 9.77,
+   "t_soft_lower": 0.0,
+   "t_upper": 19.54
   }
  ]
 }

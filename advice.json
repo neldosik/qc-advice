@@ -1,5 +1,5 @@
 {
- "calibration_evidence": 18,
+ "calibration_evidence": 13,
  "category_floors": {
   "cleaning": 116.66,
   "disposal": 58.16,
@@ -201,8 +201,8 @@
   "wool": 70.0,
   "worker": 621.0
  },
- "games_analyzed": 97,
- "median_multiplier": 0.964,
+ "games_analyzed": 98,
+ "median_multiplier": 0.972,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -349,6 +349,19 @@
    "uncovered_share": 0.14
   },
   {
+   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
+   "games": [
+    58,
+    79,
+    94,
+    98
+   ],
+   "items_proven_covered": 4,
+   "items_proven_uncovered": 4,
+   "policy_hash": "0a64251a67",
+   "uncovered_share": 0.5
+  },
+  {
    "edition": "",
    "games": [
     59,
@@ -432,18 +445,6 @@
    "items_proven_uncovered": 1,
    "policy_hash": "4ac31c544c",
    "uncovered_share": 0.04
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
-   "games": [
-    58,
-    79,
-    94
-   ],
-   "items_proven_covered": 3,
-   "items_proven_uncovered": 4,
-   "policy_hash": "0a64251a67",
-   "uncovered_share": 0.57
   },
   {
    "edition": "Policy wording \"WD-2026\" - Buildings and Insured Location Edition",
@@ -716,9 +717,7 @@
   "miscellaneous",
   "auxiliary",
   "items",
-  "hole",
-  "drilling",
   "shipping"
  ],
- "generated_at": "2026-08-23T09:22:41.598176+00:00"
+ "generated_at": "2026-08-23T09:27:39.436155+00:00"
 }
