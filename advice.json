@@ -1,111 +1,196 @@
 {
- "calibration_evidence": 9,
+ "calibration_evidence": 37,
  "category_floors": {
-  "cleaning": 102.79,
-  "disposal": 67.89,
-  "drying": 359.19,
-  "electronics": 513.01,
-  "flooring": 232.15,
-  "inspection/report": 227.66,
+  "cleaning": 116.66,
+  "disposal": 58.16,
+  "drying": 300.0,
+  "electronics": 500.0,
+  "flooring": 280.5,
+  "inspection/report": 233.39,
   "installation": 378.0,
-  "labour hours": 497.9,
-  "leak detection": 432.0,
-  "moisture measurement": 200.0,
-  "skirting": 119.2,
-  "vehicle/call-out": 81.0,
-  "walls/plaster": 431.94,
-  "water extraction": 114.12
+  "labour hours": 360.0,
+  "leak detection": 456.0,
+  "moisture measurement": 225.0,
+  "skirting": 318.75,
+  "vehicle/call-out": 79.13,
+  "walls/plaster": 378.0,
+  "water extraction": 116.66
  },
  "covered_words": {
+  "above": 765.0,
   "adjoining": 101.0,
   "affected": 115.0,
-  "area": 232.0,
+  "area": 233.0,
   "areas": 99.0,
-  "assembly": 135.0,
-  "assessment": 455.0,
-  "base": 155.0,
+  "assembly": 130.0,
+  "assessment": 536.0,
+  "base": 150.0,
   "basement": 202.0,
+  "bathroom": 823.0,
   "beneath": 402.0,
-  "billiard": 454.0,
-  "boards": 112.0,
-  "call-out": 432.0,
-  "cleaning": 100.0,
+  "bicycle": 128.0,
+  "billiard": 452.0,
+  "boards": 234.0,
+  "boiler": 626.0,
+  "broken": 87.0,
+  "call-out": 402.0,
+  "cause": 412.0,
+  "ceiling": 339.0,
+  "channel": 97.0,
+  "cistern": 112.0,
+  "clean": 225.0,
+  "cleaner": 114.0,
+  "cloth": 520.0,
   "compensation": 7225.0,
-  "condensation": 53.0,
-  "connection": 136.0,
-  "conservatory": 650.0,
+  "compressor": 97.0,
+  "condensation": 109.0,
+  "conditioning": 2090.0,
+  "confirm": 136.0,
+  "connection": 135.0,
+  "conservatory": 616.0,
   "construction": 57.0,
-  "copper": 90.0,
-  "costs": 80.0,
-  "damage": 614.0,
-  "damaged": 199.0,
+  "consumables": 177.0,
+  "copper": 96.0,
+  "costs": 79.0,
+  "covering": 150.0,
+  "damage": 612.0,
+  "damaged": 230.0,
+  "days": 282.0,
   "detection": 471.0,
-  "disposal": 68.0,
-  "dryer": 359.0,
-  "drying": 425.0,
-  "elbow": 96.0,
-  "electrical": 228.0,
-  "final": 100.0,
-  "floor": 155.0,
-  "further": 136.0,
-  "hallway": 108.0,
-  "helper": 254.0,
+  "disassemble": 123.0,
+  "disassembly": 280.0,
+  "disposal": 58.0,
+  "dispose": 699.0,
+  "door": 276.0,
+  "drain": 136.0,
+  "dryer": 282.0,
+  "drying": 399.0,
+  "during": 181.0,
+  "elbow": 82.0,
+  "electrical": 117.0,
+  "facade": 300.0,
+  "fill": 240.0,
+  "filling": 51.0,
+  "final": 114.0,
+  "fitting": 51.0,
+  "flat": 228.0,
+  "flat-rate": 585.0,
+  "floor": 229.0,
+  "frost-burst": 51.0,
+  "further": 142.0,
+  "glass": 87.0,
+  "guest": 150.0,
+  "hallway": 113.0,
+  "helper": 352.0,
   "high-value": 400.0,
-  "hours": 498.0,
-  "indoor": 471.0,
-  "inspect": 228.0,
-  "inspection": 135.0,
-  "insulation": 153.0,
-  "kitchen": 155.0,
+  "hose": 26.0,
+  "hours": 387.0,
+  "impact": 1400.0,
+  "indoor": 522.0,
+  "inspect": 229.0,
+  "inspection": 136.0,
+  "install": 507.0,
+  "installation": 460.0,
+  "installer": 290.0,
+  "insulation": 147.0,
+  "internal": 51.0,
+  "investigation": 412.0,
+  "kitchen": 180.0,
+  "labor": 838.0,
+  "labour": 555.0,
+  "laminate": 1305.0,
+  "layer": 560.0,
   "leak": 460.0,
+  "leakage": 136.0,
+  "lighting": 765.0,
   "living": 1233.0,
+  "lower": 620.0,
   "machine": 136.0,
-  "measurement": 184.0,
+  "measurement": 218.0,
   "model": 96.0,
-  "moisture": 200.0,
-  "painting": 455.0,
-  "piece": 67.0,
-  "pipe": 108.0,
-  "pool": 606.0,
-  "profipress": 96.0,
-  "rate": 240.0,
-  "removal": 150.0,
+  "moisture": 225.0,
+  "multiple": 229.0,
+  "open": 102.0,
+  "opening": 595.0,
+  "paint": 614.0,
+  "painting": 638.0,
+  "pane": 87.0,
+  "parquet": 158.0,
+  "path": 240.0,
+  "piece": 68.0,
+  "pipe": 72.0,
+  "pipeline": 456.0,
+  "plant-room": 472.0,
+  "plaster": 72.0,
+  "plasterboard": 560.0,
+  "pool": 475.0,
+  "premium": 500.0,
+  "preparation": 575.0,
+  "profipress": 82.0,
+  "rate": 228.0,
+  "removal": 153.0,
   "remove": 145.0,
+  "renew": 284.0,
   "rental": 58.0,
-  "repair": 374.0,
-  "replace": 240.0,
-  "replacement": 330.0,
-  "restore": 569.0,
-  "room": 408.0,
-  "service": 449.0,
+  "repair": 325.0,
+  "replace": 269.0,
+  "replacement": 315.0,
+  "restoration": 2203.0,
+  "restore": 570.0,
+  "rewiring": 36.0,
+  "robbery": 3000.0,
+  "robot": 114.0,
+  "rock": 35.0,
+  "roof": 87.0,
+  "room": 438.0,
+  "rooms": 225.0,
+  "screen": 1125.0,
+  "section": 454.0,
+  "senior": 290.0,
+  "service": 576.0,
+  "side": 97.0,
   "sink": 432.0,
   "site": 100.0,
-  "skilled": 629.0,
-  "skirting": 119.0,
+  "skilled": 621.0,
+  "skirting": 319.0,
+  "small": 36.0,
+  "sound": 1451.0,
   "speaker": 310.0,
-  "specialist": 156.0,
+  "specialist": 187.0,
+  "stainless": 45.0,
+  "standard": 432.0,
+  "steel": 45.0,
+  "stolen": 2207.0,
   "supply": 360.0,
-  "surfaces": 569.0,
-  "surge": 310.0,
-  "system": 310.0,
-  "table": 300.0,
-  "technician": 498.0,
+  "surface": 364.0,
+  "surfaces": 574.0,
+  "surge": 532.0,
+  "system": 626.0,
+  "systems": 269.0,
+  "table": 330.0,
+  "taken": 7225.0,
+  "technician": 593.0,
+  "tiles": 489.0,
+  "toilet": 112.0,
   "transition": 67.0,
   "transport": 147.0,
-  "unit": 408.0,
+  "unit": 464.0,
+  "units": 838.0,
   "upgrade": 489.0,
   "utility": 108.0,
-  "vacuum": 114.0,
-  "vehicle": 80.0,
+  "vacuum": 117.0,
+  "valve": 100.0,
+  "vehicle": 79.0,
   "wall": 432.0,
   "washing": 136.0,
-  "water": 614.0,
-  "water-damaged": 139.0,
-  "wool": 197.0,
-  "worker": 629.0
+  "waste": 56.0,
+  "water": 384.0,
+  "water-damaged": 150.0,
+  "wool": 70.0,
+  "worker": 621.0
  },
- "games_analyzed": 43,
- "median_multiplier": 1.241,
+ "games_analyzed": 91,
+ "median_multiplier": 1.116,
  "policies": [
   {
    "edition": "Policy wording \"WD-2026\" - Electrical and Electronic Equipment Edition",
@@ -113,12 +198,104 @@
     2,
     4,
     6,
-    32
+    32,
+    60
    ],
-   "items_proven_covered": 9,
-   "items_proven_uncovered": 4,
+   "items_proven_covered": 10,
+   "items_proven_uncovered": 8,
    "policy_hash": "1064e5a2c0",
-   "uncovered_share": 0.31
+   "uncovered_share": 0.44
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Escape of Water and Ancillary Plant Edition",
+   "games": [
+    1,
+    19,
+    45,
+    48
+   ],
+   "items_proven_covered": 48,
+   "items_proven_uncovered": 3,
+   "policy_hash": "a2e8b6b552",
+   "uncovered_share": 0.06
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Technical Installations and Ancillary Charges Edition",
+   "games": [
+    7,
+    20,
+    22,
+    54
+   ],
+   "items_proven_covered": 12,
+   "items_proven_uncovered": 2,
+   "policy_hash": "80cab1b4f3",
+   "uncovered_share": 0.14
+  },
+  {
+   "edition": "",
+   "games": [
+    8,
+    24,
+    46,
+    82
+   ],
+   "items_proven_covered": 98,
+   "items_proven_uncovered": 3,
+   "policy_hash": "7d2aad143b",
+   "uncovered_share": 0.03
+  },
+  {
+   "edition": "",
+   "games": [
+    9,
+    56,
+    83,
+    85
+   ],
+   "items_proven_covered": 11,
+   "items_proven_uncovered": 7,
+   "policy_hash": "b23abbdca5",
+   "uncovered_share": 0.39
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
+   "games": [
+    10,
+    41,
+    44,
+    53
+   ],
+   "items_proven_covered": 7,
+   "items_proven_uncovered": 8,
+   "policy_hash": "4fa9117fc8",
+   "uncovered_share": 0.53
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
+   "games": [
+    21,
+    43,
+    55,
+    69
+   ],
+   "items_proven_covered": 7,
+   "items_proven_uncovered": 3,
+   "policy_hash": "906e916483",
+   "uncovered_share": 0.3
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Water Escape, External Surfaces and Site Charges",
+   "games": [
+    49,
+    50,
+    52,
+    65
+   ],
+   "items_proven_covered": 30,
+   "items_proven_uncovered": 5,
+   "policy_hash": "7251d25cf5",
+   "uncovered_share": 0.14
   },
   {
    "edition": "",
@@ -133,27 +310,112 @@
    "uncovered_share": 0.0
   },
   {
-   "edition": "Policy wording \"WD-2026\" - Technical Installations and Ancillary Charges Edition",
+   "edition": "",
    "games": [
-    7,
-    20,
-    22
+    11,
+    37,
+    51
    ],
-   "items_proven_covered": 7,
+   "items_proven_covered": 37,
+   "items_proven_uncovered": 1,
+   "policy_hash": "63344e651d",
+   "uncovered_share": 0.03
+  },
+  {
+   "edition": "",
+   "games": [
+    13,
+    34,
+    87
+   ],
+   "items_proven_covered": 38,
+   "items_proven_uncovered": 4,
+   "policy_hash": "ad985041b1",
+   "uncovered_share": 0.1
+  },
+  {
+   "edition": "",
+   "games": [
+    17,
+    72,
+    76
+   ],
+   "items_proven_covered": 37,
+   "items_proven_uncovered": 1,
+   "policy_hash": "e93f033322",
+   "uncovered_share": 0.03
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
+   "games": [
+    23,
+    57,
+    86
+   ],
+   "items_proven_covered": 12,
+   "items_proven_uncovered": 3,
+   "policy_hash": "88a3f39293",
+   "uncovered_share": 0.2
+  },
+  {
+   "edition": "",
+   "games": [
+    26,
+    30,
+    91
+   ],
+   "items_proven_covered": 31,
+   "items_proven_uncovered": 3,
+   "policy_hash": "032711e357",
+   "uncovered_share": 0.09
+  },
+  {
+   "edition": "",
+   "games": [
+    29,
+    67,
+    84
+   ],
+   "items_proven_covered": 13,
    "items_proven_uncovered": 0,
-   "policy_hash": "80cab1b4f3",
+   "policy_hash": "90eda592a1",
    "uncovered_share": 0.0
   },
   {
-   "edition": "Policy wording \"WD-2026\" - Escape of Water and Ancillary Plant Edition",
+   "edition": "",
    "games": [
-    1,
-    19
+    39,
+    42,
+    80
    ],
-   "items_proven_covered": 17,
-   "items_proven_uncovered": 0,
-   "policy_hash": "a2e8b6b552",
-   "uncovered_share": 0.0
+   "items_proven_covered": 25,
+   "items_proven_uncovered": 1,
+   "policy_hash": "4ac31c544c",
+   "uncovered_share": 0.04
+  },
+  {
+   "edition": "",
+   "games": [
+    47,
+    61,
+    89
+   ],
+   "items_proven_covered": 31,
+   "items_proven_uncovered": 5,
+   "policy_hash": "105276c69e",
+   "uncovered_share": 0.14
+  },
+  {
+   "edition": "",
+   "games": [
+    59,
+    64,
+    90
+   ],
+   "items_proven_covered": 15,
+   "items_proven_uncovered": 1,
+   "policy_hash": "8baba06b8c",
+   "uncovered_share": 0.06
   },
   {
    "edition": "Policy wording \"WD-2026\" - Buildings and Insured Location Edition",
@@ -167,91 +429,15 @@
    "uncovered_share": 0.0
   },
   {
-   "edition": "",
+   "edition": "Policy wording \"WD-2026\" - Accidental Damage and Optional Glazing Edition",
    "games": [
-    8,
-    24
+    58,
+    79
    ],
-   "items_proven_covered": 40,
+   "items_proven_covered": 1,
    "items_proven_uncovered": 3,
-   "policy_hash": "7d2aad143b",
-   "uncovered_share": 0.07
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Robbery and Personal Effects Edition",
-   "games": [
-    10,
-    41
-   ],
-   "items_proven_covered": 3,
-   "items_proven_uncovered": 4,
-   "policy_hash": "4fa9117fc8",
-   "uncovered_share": 0.57
-  },
-  {
-   "edition": "",
-   "games": [
-    11,
-    37
-   ],
-   "items_proven_covered": 31,
-   "items_proven_uncovered": 1,
-   "policy_hash": "63344e651d",
-   "uncovered_share": 0.03
-  },
-  {
-   "edition": "",
-   "games": [
-    13,
-    34
-   ],
-   "items_proven_covered": 33,
-   "items_proven_uncovered": 3,
-   "policy_hash": "ad985041b1",
-   "uncovered_share": 0.08
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Portable Equipment, Repair and Replacement Edition",
-   "games": [
-    21,
-    43
-   ],
-   "items_proven_covered": 3,
-   "items_proven_uncovered": 2,
-   "policy_hash": "906e916483",
-   "uncovered_share": 0.4
-  },
-  {
-   "edition": "",
-   "games": [
-    26,
-    30
-   ],
-   "items_proven_covered": 15,
-   "items_proven_uncovered": 1,
-   "policy_hash": "032711e357",
-   "uncovered_share": 0.06
-  },
-  {
-   "edition": "",
-   "games": [
-    39,
-    42
-   ],
-   "items_proven_covered": 16,
-   "items_proven_uncovered": 1,
-   "policy_hash": "4ac31c544c",
-   "uncovered_share": 0.06
-  },
-  {
-   "edition": "",
-   "games": [
-    9
-   ],
-   "items_proven_covered": 5,
-   "items_proven_uncovered": 7,
-   "policy_hash": "b23abbdca5",
-   "uncovered_share": 0.58
+   "policy_hash": "0a64251a67",
+   "uncovered_share": 0.75
   },
   {
    "edition": "",
@@ -276,32 +462,12 @@
   {
    "edition": "",
    "games": [
-    17
-   ],
-   "items_proven_covered": 17,
-   "items_proven_uncovered": 1,
-   "policy_hash": "e93f033322",
-   "uncovered_share": 0.06
-  },
-  {
-   "edition": "",
-   "games": [
     18
    ],
    "items_proven_covered": 9,
    "items_proven_uncovered": 1,
    "policy_hash": "aebb723023",
    "uncovered_share": 0.1
-  },
-  {
-   "edition": "Policy wording \"WD-2026\" - Mobility Equipment and Recovery Edition",
-   "games": [
-    23
-   ],
-   "items_proven_covered": 3,
-   "items_proven_uncovered": 0,
-   "policy_hash": "88a3f39293",
-   "uncovered_share": 0.0
   },
   {
    "edition": "",
@@ -331,16 +497,6 @@
    "items_proven_covered": 0,
    "items_proven_uncovered": 0,
    "policy_hash": "e4d4db9c30",
-   "uncovered_share": 0.0
-  },
-  {
-   "edition": "",
-   "games": [
-    29
-   ],
-   "items_proven_covered": 2,
-   "items_proven_uncovered": 0,
-   "policy_hash": "90eda592a1",
    "uncovered_share": 0.0
   },
   {
@@ -392,13 +548,148 @@
    "items_proven_uncovered": 0,
    "policy_hash": "bd9b9f2103",
    "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    62
+   ],
+   "items_proven_covered": 8,
+   "items_proven_uncovered": 0,
+   "policy_hash": "deb93e5950",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Repair Scope and Building Services Edition",
+   "games": [
+    63
+   ],
+   "items_proven_covered": 0,
+   "items_proven_uncovered": 1,
+   "policy_hash": "5db81c5ddf",
+   "uncovered_share": 1.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Buildings, Contents and Forcible Removal Edition",
+   "games": [
+    66
+   ],
+   "items_proven_covered": 2,
+   "items_proven_uncovered": 0,
+   "policy_hash": "64b909aa84",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Theft, Break-in and Scheduled Articles Edition",
+   "games": [
+    68
+   ],
+   "items_proven_covered": 7,
+   "items_proven_uncovered": 1,
+   "policy_hash": "0b870a3c0a",
+   "uncovered_share": 0.12
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Portable Equipment and Accidental Damage Edition",
+   "games": [
+    70
+   ],
+   "items_proven_covered": 1,
+   "items_proven_uncovered": 0,
+   "policy_hash": "1ed42cd746",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    71
+   ],
+   "items_proven_covered": 8,
+   "items_proven_uncovered": 4,
+   "policy_hash": "e889732082",
+   "uncovered_share": 0.33
+  },
+  {
+   "edition": "",
+   "games": [
+    73
+   ],
+   "items_proven_covered": 13,
+   "items_proven_uncovered": 0,
+   "policy_hash": "f029886297",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "",
+   "games": [
+    74
+   ],
+   "items_proven_covered": 24,
+   "items_proven_uncovered": 0,
+   "policy_hash": "3034ab9c4d",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Escape of Water and Uninsured Plant Edition",
+   "games": [
+    75
+   ],
+   "items_proven_covered": 12,
+   "items_proven_uncovered": 0,
+   "policy_hash": "cf83c6dfb4",
+   "uncovered_share": 0.0
+  },
+  {
+   "edition": "Policy wording \"WD-2026\" - Pipework Fracture and External Surfaces Edition",
+   "games": [
+    77
+   ],
+   "items_proven_covered": 4,
+   "items_proven_uncovered": 2,
+   "policy_hash": "6d2e8e0a2e",
+   "uncovered_share": 0.33
+  },
+  {
+   "edition": "",
+   "games": [
+    78
+   ],
+   "items_proven_covered": 14,
+   "items_proven_uncovered": 4,
+   "policy_hash": "f6fea8d3b9",
+   "uncovered_share": 0.22
+  },
+  {
+   "edition": "",
+   "games": [
+    81
+   ],
+   "items_proven_covered": 0,
+   "items_proven_uncovered": 2,
+   "policy_hash": "8c2ab71d37",
+   "uncovered_share": 1.0
+  },
+  {
+   "edition": "",
+   "games": [
+    88
+   ],
+   "items_proven_covered": 18,
+   "items_proven_uncovered": 1,
+   "policy_hash": "b4ee561e9a",
+   "uncovered_share": 0.05
   }
  ],
  "t_knowledge_url": "/api/t_knowledge",
  "uncovered_words": [
   "catering",
   "crew",
+  "administrative",
+  "claim-processing",
+  "miscellaneous",
+  "auxiliary",
+  "items",
   "shipping"
  ],
- "generated_at": "2026-08-23T07:56:47.649094+00:00"
+ "generated_at": "2026-08-23T08:01:52.210746+00:00"
 }
