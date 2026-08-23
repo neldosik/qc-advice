@@ -12495,6 +12495,248 @@
    "t_hat": 9.77,
    "t_soft_lower": 0.0,
    "t_upper": 19.54
+  },
+  {
+   "description": "Leak detection call-out 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 432.0,
+   "t_hat": 432.0,
+   "t_soft_lower": 432.0,
+   "t_upper": null
+  },
+  {
+   "description": "Electro-acoustic pinpointing of the leak beneath the 1 pcs kitchen sink",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 539.37,
+   "t_hat": 539.37,
+   "t_soft_lower": 539.37,
+   "t_upper": null
+  },
+  {
+   "description": "Moisture measurement of the kitchen floor and wall 1 pcs base",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 155.0,
+   "t_hat": 157.83,
+   "t_soft_lower": 155.0,
+   "t_upper": 160.66
+  },
+  {
+   "description": "Service technician hours 14 hrs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 539.75,
+   "t_hat": 629.38,
+   "t_soft_lower": 539.75,
+   "t_upper": 719.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 29.75,
+   "t_hat": 35.75,
+   "t_soft_lower": 29.75,
+   "t_upper": 41.74
+  },
+  {
+   "description": "Freeing the affected pipe run beneath the kitchen sink 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 117.0,
+   "t_hat": 125.33,
+   "t_soft_lower": 117.0,
+   "t_upper": 133.65
+  },
+  {
+   "description": "Removal and disposal of damaged insulation 2 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 149.36,
+   "t_hat": 149.36,
+   "t_soft_lower": 149.36,
+   "t_upper": null
+  },
+  {
+   "description": "Repair of the confirmed leak and replacement copper 1 flat rate pipe section with standard insulation",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 180.0,
+   "t_hat": 211.12,
+   "t_soft_lower": 180.0,
+   "t_upper": 242.25
+  },
+  {
+   "description": "Room drying line item for the roof space (Dachstuhl) 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": true,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 0.0,
+   "t_hat": 14.0,
+   "t_soft_lower": 0.0,
+   "t_upper": 28.0
+  },
+  {
+   "description": "Condensation dryer (kitchen) 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 45.05,
+   "t_hat": 52.7,
+   "t_soft_lower": 45.05,
+   "t_upper": 60.35
+  },
+  {
+   "description": "Room drying of the kitchen floor and wall base 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 90.92,
+   "t_hat": 122.01,
+   "t_soft_lower": 90.92,
+   "t_upper": 153.1
+  },
+  {
+   "description": "Transition pieces and standard insulation for the 1 flat rate repaired section",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 35.2,
+   "t_hat": 45.59,
+   "t_soft_lower": 35.2,
+   "t_upper": 55.99
+  },
+  {
+   "description": "Final site cleaning of the covered work area 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 78.46,
+   "t_hat": 80.63,
+   "t_soft_lower": 78.46,
+   "t_upper": 82.8
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 83.0,
+   "t_hat": 89.0,
+   "t_soft_lower": 83.0,
+   "t_upper": 95.0
+  },
+  {
+   "description": "Removal of the water-damaged wooden kitchen table 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 55.25,
+   "t_hat": 57.25,
+   "t_soft_lower": 55.25,
+   "t_upper": 59.25
+  },
+  {
+   "description": "Transport and disposal of the damaged table 2 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 91.0,
+   "t_hat": 95.5,
+   "t_soft_lower": 91.0,
+   "t_upper": 100.0
+  },
+  {
+   "description": "Supply of replacement kitchen table, comparable 1 pcs specification to the original",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 342.0,
+   "t_hat": 354.46,
+   "t_soft_lower": 342.0,
+   "t_upper": 366.92
+  },
+  {
+   "description": "Delivery of the replacement table 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 57.38,
+   "t_hat": 66.19,
+   "t_soft_lower": 57.38,
+   "t_upper": 75.0
+  },
+  {
+   "description": "Assembly and cleaning of the installation area 1 flat rate",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 120.0,
+   "t_hat": 128.0,
+   "t_soft_lower": 120.0,
+   "t_upper": 136.0
+  },
+  {
+   "description": "Vehicle costs 1 pcs",
+   "game_id": 99,
+   "likely_uncovered": false,
+   "maybe_uncovered": false,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 83.0,
+   "t_hat": 109.9,
+   "t_soft_lower": 83.0,
+   "t_upper": 136.8
+  },
+  {
+   "description": "Vehicle costs \u2013 return visit \u2013 \u2013",
+   "game_id": 99,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 0.0,
+   "t_hat": 4.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 9.0
+  },
+  {
+   "description": "Inspection of further furniture items stored in the 1 pcs garden for moisture",
+   "game_id": 99,
+   "likely_uncovered": true,
+   "maybe_uncovered": true,
+   "policy_hash": "a7ab071f89",
+   "t_hard_lower": 0.0,
+   "t_hat": 4.5,
+   "t_soft_lower": 0.0,
+   "t_upper": 9.0
   }
  ]
 }
